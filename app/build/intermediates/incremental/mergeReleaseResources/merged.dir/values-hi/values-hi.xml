@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string name="app_name">विस्तारणीय रीसाइक्लिंग डेमो देखें</string>
+    <string name="app_playstore_long">विस्तारणीय रीसाइक्लिंग व्यू डेमो ऐप में दो टुकड़े स्क्रीन "बेसिक" और "विस्तारणीय" हैं। जैसा कि नाम "बेसिक" में सुझाता है, सामान्य रीसाइक्लर व्यू सरल लंबवत स्क्रॉल करने योग्य सूची आइटम दिखाने के लिए प्रयुक्त होता है, जैसा कि स्क्रीन टाइमर में दिखाया गया है, हर सेकेंड को कम करेगा (स्टॉप घड़ी की तरह)। "विस्तारित" में, अनुकूलित रीसाइक्लर व्यू (यानी विस्तारणीय रीसाइक्लिंग व्यू) सूची वस्तुओं का विस्तार और ढहने के लिए उपयोग किया जाता है। आप स्रोत कोड भी देख सकते हैं</string>
+    <string name="app_playstore_short">RecyclerView और Expandable RecyclerView UI अद्यतन के लिए डेमो ऐप</string>
+    <string name="basic_tab_text">बेसिक</string>
+    <string name="description_content_text">Lorem Ipsum प्रिंटिंग और टाइपसेटिंग उद्योग के बस डमी पाठ है। Lorem Ipsum 1500 के दशक के बाद से उद्योग के मानक डमी पाठ रहा है, जब एक अज्ञात प्रिंटर ने एक प्रकार की गैली ली और इसे एक प्रकार की नमूना किताब बनाने के लिए स्कैम्बल किया। यह न केवल पांच शताब्दियों तक जीवित रहा है, बल्कि इलेक्ट्रॉनिक टाइपसेटिंग में भी छलांग है, जो अनिवार्य रूप से अपरिवर्तित बनी हुई है। इसे 1 9 60 के दशक में लोरमेट इप्सम मार्गों वाले लेट्रैसेट शीट्स के रिलीज के साथ लोकप्रिय किया गया था, और हाल ही में डेस्कटॉप प्रकाशन सॉफ्टवेयर जैसे एल्डस पेजमेकर के साथ लॉरम इप्सम के संस्करण भी शामिल थे।</string>
+    <string name="description_text">आईएम टी</string>
+    <string name="drawer_header_text">इंटरएक्टिव</string>
+    <string name="expandable_tab_text">विस्तार योग्य</string>
+    <string name="nav_item_autosilent">ऑटो मूक</string>
+    <string name="nav_item_help">मदद</string>
+    <string name="nav_item_speedsilent">गति मौन</string>
     <string msgid="146198913615257606" name="search_menu_title">"खोज"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">उप शीर्षक</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

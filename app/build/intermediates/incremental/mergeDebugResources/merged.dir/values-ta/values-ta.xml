@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"இதனுடன் பகிர்"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s உடன் பகிர்"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"சுருக்கு"</string>
+    <string name="app_name">Expandable Recycler டெமோ பார்க்க</string>
+    <string name="app_playstore_long">Expandable Recycler டெமோ பயன்பாட்டை காண்க இரண்டு துண்டுகள் திரை "BASIC" மற்றும் "EXPANDABLE". பெயர் "BASIC" இல் குறிப்பிடுவது போல, இயல்பான மறுசுழற்சி காட்சி எளிய செங்குத்தாக உருளக்கூடிய பட்டியல் உருப்படிகளைக் காட்ட பயன்படும், திரைகளில் டைமர் காட்டப்படும் ஒவ்வொரு நொடியும் (இடைநிலை கண்காணிப்பு போன்றவை) குறைக்கப்படும். "விரிவான" இல், தனிப்பயனாக்கப்பட்ட மறுசுழற்சி பார்வை (அதாவது ExpandableRecyclerView) பட்டியல் உருப்படிகளை விரிவுபடுத்துதல் மற்றும் குலைக்கும். மூல மூலத்தையும் காணலாம்</string>
+    <string name="app_playstore_short">RecyclerView மற்றும் Expandable Recycler க்கான டெமோ பயன்பாடு UI புதுப்பிப்பைக் காண்க</string>
+    <string name="basic_tab_text">அடிப்படை</string>
+    <string name="description_content_text">லோரோம் இப்ஸம் அச்சு மற்றும் தட்டச்சுத் தொழிலின் போலி உரை. 1500 ஆம் ஆண்டுகளுக்குப் பின்னர், லாரெம் இப்ஸம் என்பது தொழில் நுட்பமான போலி உரை ஆகும், ஒரு அறியப்படாத அச்சுப்பொறி வகை ஒரு கலெல்லாக எடுத்து ஒரு வகை மாதிரியான புத்தகத்தை உருவாக்க அதை துண்டாக்கியது. இது ஐந்து நூற்றாண்டுகளுக்கு மட்டுமல்ல, மின்னணு அச்சுப்பொறிகளாக மாறியது மட்டுமல்லாமல், மாறாமல் மீதமிருக்கின்றது. லாரெம் இப்ஸம் பத்திகளைக் கொண்ட லெட்ராசெட் தாள்களை வெளியிட்ட 1960 ஆம் ஆண்டுகளில் இது பிரபலமானது, மேலும் சமீபத்தில் லோர்ட் ஐப்சம் பதிப்புகள் உட்பட ஆல்டுஸ் பக்க மேக்கர் போன்ற டெஸ்க்டாப் பதிப்பக மென்பொருட்களால் வெளியிடப்பட்டது.</string>
+    <string name="description_text">IMT</string>
+    <string name="drawer_header_text">ஊடாடும்</string>
+    <string name="expandable_tab_text">விரிவாக்கக்</string>
+    <string name="nav_item_autosilent">ஆட்டோ சைலண்ட்</string>
+    <string name="nav_item_help">உதவி</string>
+    <string name="nav_item_speedsilent">வேகம் சைலண்ட்</string>
     <string msgid="146198913615257606" name="search_menu_title">"தேடு"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">துணை தலைப்பு</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

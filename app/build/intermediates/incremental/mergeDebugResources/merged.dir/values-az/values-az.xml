@@ -18,6 +18,20 @@
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Səsli axtarış"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bununla paylaşın"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Dağıt"</string>
+    <string name="app_name">Genişlənən RecyclerView Demo</string>
+    <string name="app_playstore_long">Genişlənən RecyclerView Demo tətbiqi "BASIC" və "EXPANDABLE" iki parçalı ekranı ehtiva edir. Adı "BASIC" -də olduğu kimi, Normal RecyclerView, sadə vertikal kaydırılabilir Siyahı Məhsullarını göstərmək üçün istifadə olunur, Ekranlarda göstərildiyi kimi, hər bir saniyədə (Stop watch kimi) sayğac azalacaq. "Genişlənən" bölməsində, təkrarlanan RecyclerView (yəni ExpandableRecyclerView), siyahı elementlərinin genişləndirilməsi və daraltılması üçün istifadə olunur. Kaynak kodunu da görüntüleyebilirsiniz</string>
+    <string name="app_playstore_short">RecyclerView və Expandable RecyclerView UI yeniləmə üçün Demo tətbiqi</string>
+    <string name="basic_tab_text">BASIC</string>
+    <string name="description_content_text">Lorem Ipsum sadəcə çap və yazma sənayesinin dummy mətnidir. Lorem Ipsum, 1500-cü illərdən bəri bilinməyən bir printer növü bir mətbəx aldı və bir növü nümunə kitab etmək üçün pişmiş zaman sənaye standart dummy mətn olmuşdur. Yalnız beş əsrdən artıq deyil, eyni zamanda, dəyişməz olaraq qalıb elektron yazı tipinə sıçrayış. 1960-cı illərdə Lorem Ipsum pasajları olan Letraset vərəqələrinin buraxılması və daha əvvəl Lorus Ipsum versiyaları daxil olmaqla Aldus PageMaker kimi masa üstü nəşriyyat proqramları ilə məşhurlaşdı.</string>
+    <string name="description_text">imt</string>
+    <string name="drawer_header_text">İnteraktiv</string>
+    <string name="expandable_tab_text">Genişlənir</string>
+    <string name="nav_item_autosilent">Avto Sessiz</string>
+    <string name="nav_item_help">Kömək edin</string>
+    <string name="nav_item_speedsilent">Səssiz səs</string>
     <string msgid="146198913615257606" name="search_menu_title">"Axtarış"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Alt Başlıq</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

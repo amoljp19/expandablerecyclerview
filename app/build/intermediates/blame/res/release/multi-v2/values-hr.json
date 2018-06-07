@@ -4,13 +4,37 @@
             "outputFile": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hr\\values-hr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amol\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\460aaf1b91c8c516190242860bb82a48\\res\\values-hr\\values-hr.xml",
+                    "source": "C:\\Users\\Amol\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6747d06125811a397d91c3223fd1aae5\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
                         "startOffsets": "55,160,268,391,488,598,684,788,907,991,1074,1160,1264,1377,1483,1588,1701,1808,1931,2028,2117",
                         "endColumns": "104,107,122,96,109,85,103,118,83,82,85,103,112,105,104,112,106,122,96,88,100",
                         "endOffsets": "155,263,386,483,593,679,783,902,986,1069,1155,1259,1372,1478,1583,1696,1803,1926,2023,2112,2213"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,488,598,684,788,907,991,1074,1160,1264,1377,1483,1588,1701,1808,1931,3733,3822",
+                        "endColumns": "104,107,122,96,109,85,103,118,83,82,85,103,112,105,104,112,106,122,96,88,100",
+                        "endOffsets": "155,263,386,483,593,679,783,902,986,1069,1155,1259,1372,1478,1583,1696,1803,1926,2023,3817,3918"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\src\\main\\res\\values-hr\\strings.xml",
+                    "from": {
+                        "startLines": "3,16,15,12,14,8,7,13,4,6,5,10,11,9",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "53,1373,1239,524,638,335,278,582,115,230,172,425,478,381",
+                        "endColumns": "61,534,133,57,600,45,56,55,56,47,57,52,45,43",
+                        "endOffsets": "113,1906,1371,580,1237,379,333,636,170,276,228,476,522,423"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2028,2093,2591,2728,2789,3393,3442,3502,3561,3621,3672,3923,3979,4028",
+                        "endColumns": "64,497,136,60,603,48,59,58,59,50,60,55,48,46",
+                        "endOffsets": "2088,2586,2723,2784,3388,3437,3497,3556,3616,3667,3728,3974,4023,4070"
                     }
                 }
             ]

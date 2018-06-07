@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deel met"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deel met %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Vou in"</string>
+    <string name="app_name">Uitbreidbare RecyclerView Demo</string>
+    <string name="app_playstore_long">Uitgebreide RecyclerView Demo app bevat twee fragmente skerm "BASIC" en "EXPANDABLE". Soos die naam aandui In "BASIESE", het Normal RecyclerView gebruik om eenvoudige vertikaal scrollbare lysitems te wys. Soos in skerms gewys, sal die timer elke sekonde verminder word (soos stophorlosie). In "EXPANDABLE", gebruik RecyclerView (bv. ExpandableRecyclerView) wat gebruik word om lysitems uit te brei en in duie te stort. U kan ook die bronkode sien</string>
+    <string name="app_playstore_short">Demo app vir RecyclerView en Expandable RecyclerView UI update</string>
+    <string name="basic_tab_text">BASIC</string>
+    <string name="description_content_text">Lorem Ipsum is eenvoudig dummy teks van die drukkery en tikbedryf. Lorem Ipsum is sedert die 1500's die bedryf se standaard-dummy-teks, sedert 'n onbekende drukker 'n galery van soort gehad het en dit geskroef het om 'n soort monsterboek te maak. Dit het nie net vyf eeue oorleef nie, maar ook die sprong in elektroniese tipesetting, wat feitlik onveranderd bly. Dit is in die 1960's gewild gemaak met die vrylating van Letraset-lakens wat Lorem Ipsum-gedeeltes bevat, en meer onlangs met desktopuitgewersagteware soos Aldus PageMaker, insluitend weergawes van Lorem Ipsum.</string>
+    <string name="description_text">IMT</string>
+    <string name="drawer_header_text">interaktiewe</string>
+    <string name="expandable_tab_text">UITBREIDBAAR</string>
+    <string name="nav_item_autosilent">Outomaties Silent</string>
+    <string name="nav_item_help">help</string>
+    <string name="nav_item_speedsilent">Spoed Silent</string>
     <string msgid="146198913615257606" name="search_menu_title">"Soek"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Sub Titel</string>
+    <string name="time_text">02:35:56</string>
+    <string name="title_text">Riddham</string>
 </resources>

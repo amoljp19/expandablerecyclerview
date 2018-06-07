@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="app_name">توسيع RecyclerView التجريبي</string>
+    <string name="app_playstore_long">يحتوي التطبيق التجريبي RecyclerView التوضيحي القابل للتوسيع على شظايا الشاشة "BASIC" و "EXPANDABLE". كما يقترح الاسم في "BASIC" ، استخدم RecyclerView العادي لإظهار عناصر قائمة قابلة للتمرير عموديًا بسيطًا ، كما هو موضح في مؤقت شاشات سيتم تقليل كل ثانية (مثل ساعة التوقف). في "EXPANDABLE" ، مخصص RecyclerView (على سبيل المثال ، ExpandableRecyclerView) المستخدمة لتوسيع و طي عناصر القائمة. يمكنك عرض شفرة المصدر أيضا</string>
+    <string name="app_playstore_short">التطبيق التجريبي ل RecyclerView وتحديث واجهة المستخدم RecyclerView التحديث</string>
+    <string name="basic_tab_text">BASIC</string>
+    <string name="description_content_text">لوريم إيبسوم (Lorem Ipsum) هو ببساطة نص شكلي في صناعة الطباعة والتنضيد. لقد كان لوريم إيبسوم النص المعياري التقليدي في الصناعة منذ القرن السادس عشر ، عندما أخذت طابعة غير معروفة مجموعة من الأطباق وضمتها لعمل كتاب من نوع العينة. وقد نجا ليس فقط خمسة قرون ، ولكن أيضا قفزة في التنضيد الإلكتروني ، وتبقى في الأساس دون تغيير. تم تعميمها في الستينيات مع إصدار أوراق Letraset التي تحتوي على ممرات Lorem Ipsum ، ومؤخرًا مع برامج النشر المكتبي مثل Aldus PageMaker بما في ذلك إصدارات Lorem Ipsum.</string>
+    <string name="description_text">IMT</string>
+    <string name="drawer_header_text">متفاعل</string>
+    <string name="expandable_tab_text">للتوسيع</string>
+    <string name="nav_item_autosilent">السيارات الصامتة</string>
+    <string name="nav_item_help">مساعدة</string>
+    <string name="nav_item_speedsilent">السرعة الصامتة</string>
     <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="sub_title_text">العنوان الفرعي</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

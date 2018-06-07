@@ -46,7 +46,6 @@ Referenced Strings:
   AppCompatViewInflater
   AutoCompleteTextView
   AvdcInflateDelegate
-  BASIC
   BundleCompatBaseImpl
   Button
   CREATED
@@ -60,7 +59,6 @@ Referenced Strings:
   DrawableCompatApi17
   DrawableWrapperApi21
   DrawerLayout
-  EXPANDABLE
   EditText
   FloatingActionButton
   FragmentActivity
@@ -394,10 +392,10 @@ Referenced Strings:
   weight
   window
   xx
-Marking string:path_password_eye:2131492909 used because its prefix matches string pool constant path
-Marking string:path_password_eye_mask_strike_through:2131492910 used because its prefix matches string pool constant path
-Marking string:path_password_eye_mask_visible:2131492911 used because its prefix matches string pool constant path
-Marking string:path_password_strike_through:2131492912 used because its prefix matches string pool constant path
+Marking string:path_password_eye:2131492911 used because its prefix matches string pool constant path
+Marking string:path_password_eye_mask_strike_through:2131492912 used because its prefix matches string pool constant path
+Marking string:path_password_eye_mask_visible:2131492913 used because its prefix matches string pool constant path
+Marking string:path_password_strike_through:2131492914 used because its prefix matches string pool constant path
 Marking declare-styleable:ButtonBarLayout:-1 used because its prefix matches string pool constant Button
 Marking styleable:ButtonBarLayout:-1 used because its prefix matches string pool constant Button
 Marking attr:searchHintIcon:2130903293 used because its prefix matches string pool constant search
@@ -413,7 +411,7 @@ Marking id:search_mag_icon:2131230854 used because its prefix matches string poo
 Marking id:search_plate:2131230855 used because its prefix matches string pool constant search
 Marking id:search_src_text:2131230856 used because its prefix matches string pool constant search
 Marking id:search_voice_btn:2131230857 used because its prefix matches string pool constant search
-Marking string:search_menu_title:2131492913 used because its prefix matches string pool constant search
+Marking string:search_menu_title:2131492915 used because its prefix matches string pool constant search
 Marking declare-styleable:CoordinatorLayout:-1 used because its prefix matches string pool constant CoordinatorLayout
 Marking styleable:CoordinatorLayout:-1 used because its prefix matches string pool constant CoordinatorLayout
 Marking declare-styleable:CoordinatorLayout_Layout:-1 used because its prefix matches string pool constant CoordinatorLayout
@@ -461,6 +459,7 @@ Marking attr:expandedTitleMarginTop:2130903185 used because its prefix matches s
 Marking attr:expandedTitleTextAppearance:2130903186 used because its prefix matches string pool constant expand
 Marking id:expand_activities_button:2131230786 used because its prefix matches string pool constant expand
 Marking id:expanded_menu:2131230787 used because its prefix matches string pool constant expand
+Marking string:expandable_tab_text:2131492906 used because its prefix matches string pool constant expand
 Marking declare-styleable:FloatingActionButton:-1 used because its prefix matches string pool constant FloatingActionButton
 Marking styleable:FloatingActionButton:-1 used because its prefix matches string pool constant FloatingActionButton
 Marking declare-styleable:FloatingActionButton_Behavior_Layout:-1 used because its prefix matches string pool constant FloatingActionButton
@@ -601,6 +600,7 @@ Marking attr:windowMinWidthMajor:2130903394 used because its prefix matches stri
 Marking attr:windowMinWidthMinor:2130903395 used because its prefix matches string pool constant window
 Marking attr:windowNoTitle:2130903396 used because its prefix matches string pool constant window
 Marking id:time:2131230886 used because its prefix matches string pool constant time
+Marking string:time_text:2131492918 used because its prefix matches string pool constant time
 Marking attr:itemBackground:2130903223 used because its prefix matches string pool constant item
 Marking attr:itemIconTint:2130903224 used because its prefix matches string pool constant item
 Marking attr:itemPadding:2130903225 used because its prefix matches string pool constant item
@@ -706,10 +706,10 @@ drawable:abc_spinner_textfield_background_material:2131165255 => [dimen:abc_cont
 drawable:abc_switch_thumb_material:2131165256 => [drawable:abc_btn_switch_to_on_mtrl_00012:2131165202, drawable:abc_btn_switch_to_on_mtrl_00001:2131165201]
 drawable:abc_tab_indicator_material:2131165258 => [drawable:abc_tab_indicator_mtrl_alpha:2131165259]
 drawable:abc_textfield_search_material:2131165271 => [drawable:abc_textfield_search_activated_mtrl_alpha:2131165269, drawable:abc_textfield_search_default_mtrl_alpha:2131165270]
-drawable:avd_hide_password:2131165273 => [drawable:avd_hide_password_1:-1, string:path_password_strike_through:2131492912, string:path_password_eye_mask_visible:2131492911, string:path_password_eye:2131492909, drawable:avd_hide_password_2:-1, integer:hide_password_duration:2131296263, string:path_password_eye_mask_strike_through:2131492910, drawable:avd_hide_password_3:-1]
-drawable:avd_show_password:2131165274 => [drawable:avd_show_password_1:-1, string:path_password_strike_through:2131492912, string:path_password_eye_mask_strike_through:2131492910, string:path_password_eye:2131492909, drawable:avd_show_password_2:-1, integer:show_password_duration:2131296264, string:path_password_eye_mask_visible:2131492911, drawable:avd_show_password_3:-1]
+drawable:avd_hide_password:2131165273 => [drawable:avd_hide_password_1:-1, string:path_password_strike_through:2131492914, string:path_password_eye_mask_visible:2131492913, string:path_password_eye:2131492911, drawable:avd_hide_password_2:-1, integer:hide_password_duration:2131296263, string:path_password_eye_mask_strike_through:2131492912, drawable:avd_hide_password_3:-1]
+drawable:avd_show_password:2131165274 => [drawable:avd_show_password_1:-1, string:path_password_strike_through:2131492914, string:path_password_eye_mask_strike_through:2131492912, string:path_password_eye:2131492911, drawable:avd_show_password_2:-1, integer:show_password_duration:2131296264, string:path_password_eye_mask_visible:2131492913, drawable:avd_show_password_3:-1]
 drawable:design_bottom_navigation_item_background:2131165275 => [attr:colorPrimary:2130903137]
-drawable:design_ic_visibility:2131165277 => [string:path_password_eye:2131492909]
+drawable:design_ic_visibility:2131165277 => [string:path_password_eye:2131492911]
 drawable:design_password_eye:2131165279 => [drawable:design_ic_visibility:2131165277, drawable:design_ic_visibility_off:2131165278, drawable:avd_show_password:2131165274, id:masked:2131230810, id:visible:2131230905, drawable:avd_hide_password:2131165273]
 drawable:design_snackbar_background:2131165280 => [dimen:design_snackbar_background_corner_radius:2131099757, color:design_snackbar_background_color:2131034165]
 drawable:navigation_empty_icon:2131165287 => [dimen:design_navigation_icon_size:2131099752]
@@ -740,7 +740,7 @@ layout:abc_search_dropdown_item_icons_2line:2131361816 => [style:RtlOverlay_Widg
 layout:abc_search_view:2131361817 => [string:abc_searchview_description_search:2131492889, attr:actionButtonStyle:2130903051, dimen:abc_dropdownitem_icon_width:2131099688, style:RtlOverlay_Widget_AppCompat_SearchView_MagIcon:2131558601, id:search_edit_frame:2131230852, dimen:abc_dropdownitem_text_padding_left:2131099689, dimen:abc_dropdownitem_text_padding_right:2131099690, attr:selectableItemBackgroundBorderless:2130903298, string:abc_searchview_description_clear:2131492887, string:abc_searchview_description_submit:2131492890, string:abc_searchview_description_voice:2131492891]
 layout:abc_select_dialog_material:2131361818 => [attr:listDividerAlertDialog:2130903242, dimen:abc_dialog_list_padding_bottom_no_buttons:2131099679, dimen:abc_dialog_list_padding_top_no_title:2131099680, style:Widget_AppCompat_ListView:2131558766]
 layout:design_bottom_navigation_item:2131361822 => [dimen:design_bottom_navigation_margin:2131099739, dimen:design_bottom_navigation_text_size:2131099741, dimen:design_bottom_navigation_active_text_size:2131099734]
-layout:design_bottom_sheet_dialog:2131361823 => [string:bottom_sheet_behavior:2131492899, attr:bottomSheetStyle:2130903103]
+layout:design_bottom_sheet_dialog:2131361823 => [string:bottom_sheet_behavior:2131492901, attr:bottomSheetStyle:2130903103]
 layout:design_layout_snackbar:2131361824 => [style:ThemeOverlay_AppCompat_Dark:2131558711, style:Widget_Design_Snackbar:2131558798]
 layout:design_layout_snackbar_include:2131361825 => [style:ThemeOverlay_AppCompat_Dark:2131558711, integer:design_snackbar_text_max_lines:2131296262, dimen:design_snackbar_padding_vertical:2131099763, dimen:design_snackbar_padding_horizontal:2131099762, style:TextAppearance_Design_Snackbar_Message:2131558677, dimen:design_snackbar_extra_spacing_horizontal:2131099759, attr:colorAccent:2130903130, attr:borderlessButtonStyle:2130903101]
 layout:design_navigation_item:2131361829 => [attr:selectableItemBackground:2130903297, attr:listPreferredItemHeightSmall:2130903249, attr:listPreferredItemPaddingLeft:2130903250, attr:listPreferredItemPaddingRight:2130903251]
@@ -1125,15 +1125,16 @@ style:Widget_Design_FloatingActionButton:2131558795 => [drawable:design_fab_back
 style:Widget_Design_NavigationView:2131558796 => [dimen:design_navigation_elevation:2131099750, dimen:design_navigation_max_width:2131099753]
 style:Widget_Design_Snackbar:2131558798 => [dimen:design_snackbar_min_width:2131099761, dimen:design_snackbar_max_width:2131099760, drawable:design_snackbar_background:2131165280, dimen:design_snackbar_padding_horizontal:2131099762, dimen:design_snackbar_elevation:2131099758, dimen:design_snackbar_action_inline_max_width:2131099756]
 style:Widget_Design_TabLayout:2131558799 => [style:Base_Widget_Design_TabLayout:2131558571]
-style:Widget_Design_TextInputLayout:2131558800 => [style:TextAppearance_Design_Hint:2131558676, style:TextAppearance_Design_Error:2131558675, style:TextAppearance_Design_Counter:2131558673, style:TextAppearance_Design_Counter_Overflow:2131558674, drawable:design_password_eye:2131165279, color:design_tint_password_toggle:2131034166, string:password_toggle_content_description:2131492908]
+style:Widget_Design_TextInputLayout:2131558800 => [style:TextAppearance_Design_Hint:2131558676, style:TextAppearance_Design_Error:2131558675, style:TextAppearance_Design_Counter:2131558673, style:TextAppearance_Design_Counter_Overflow:2131558674, drawable:design_password_eye:2131165279, color:design_tint_password_toggle:2131034166, string:password_toggle_content_description:2131492910]
 style:Base_CardView:2131558413 => [dimen:cardview_default_radius:2131099726, dimen:cardview_default_elevation:2131099725]
 style:CardView:2131558572 => [style:Base_CardView:2131558413]
 style:CardView_Dark:2131558573 => [style:CardView:2131558572, color:cardview_dark_background:2131034152]
 style:CardView_Light:2131558574 => [style:CardView:2131558572, color:cardview_light_background:2131034153]
-layout:activity_main:2131361820 => [style:ThemeOverlay_AppCompat_Dark:2131558711, attr:colorPrimary:2130903137, attr:actionBarSize:2130903043, string:appbar_scrolling_view_behavior:2131492898, dimen:activity_vertical_margin:2131099723, dimen:activity_horizontal_margin:2131099722, drawable:ic_done:2131165282, layout:drawer_header:2131361836, menu:drawer:2131427328]
-layout:drawer_header:2131361836 => [attr:colorPrimaryDark:2130903138, style:ThemeOverlay_AppCompat_Dark:2131558711, string:drawer_header_text:2131492902, style:TextAppearance_AppCompat_Body1:2131558605]
-layout:list_row:2131361839 => [id:title:2131230887]
-menu:drawer:2131427328 => [string:nav_item_autosilent:2131492905, string:nav_item_speedsilent:2131492907, string:nav_item_help:2131492906]
+layout:activity_main:2131361820 => [style:ThemeOverlay_AppCompat_Dark:2131558711, attr:colorPrimary:2130903137, attr:actionBarSize:2130903043, string:appbar_scrolling_view_behavior:2131492899, dimen:activity_vertical_margin:2131099723, dimen:activity_horizontal_margin:2131099722, drawable:ic_done:2131165282, layout:drawer_header:2131361836, menu:drawer:2131427328]
+layout:child_view_holder:2131361821 => [string:description_text:2131492904]
+layout:drawer_header:2131361836 => [attr:colorPrimaryDark:2130903138, style:ThemeOverlay_AppCompat_Dark:2131558711, string:drawer_header_text:2131492905, style:TextAppearance_AppCompat_Body1:2131558605]
+layout:list_row:2131361839 => [string:title_text:2131492919, id:title:2131230887, string:sub_title_text:2131492917, string:time_text:2131492918]
+menu:drawer:2131427328 => [string:nav_item_autosilent:2131492907, string:nav_item_speedsilent:2131492909, string:nav_item_help:2131492908]
 style:DrawerArrowStyle:2131558575 => [style:Widget_AppCompat_DrawerArrowToggle:2131558738]
 style:asAppTheme:2131558801 => [style:Theme_AppCompat_Light_NoActionBar:2131558701, color:primary:2131034191, color:primary_dark:2131034194, color:accent:2131034136]
 style:myAppTheme:2131558802 => [style:Theme_AppCompat_Light:2131558695, color:primaryColor:2131034192, color:primaryColorDark:2131034193, style:DrawerArrowStyle:2131558575, style:Theme_AppCompat_Light_NoActionBar:2131558701]
@@ -1418,11 +1419,11 @@ attr:font:2130903193,
    string:abc_action_bar_up_description:2131492867,
    string:abc_activity_chooser_view_see_all:2131492870,
    string:abc_activitychooserview_choose_application:2131492871,
-   string:path_password_eye:2131492909,
-   string:path_password_eye_mask_strike_through:2131492910,
-   string:path_password_eye_mask_visible:2131492911,
-   string:path_password_strike_through:2131492912,
-   string:search_menu_title:2131492913,
+   string:path_password_eye:2131492911,
+   string:path_password_eye_mask_strike_through:2131492912,
+   string:path_password_eye_mask_visible:2131492913,
+   string:path_password_strike_through:2131492914,
+   string:search_menu_title:2131492915,
    style:Animation_AppCompat_Tooltip:2131558404,
    style:TextAppearance_Design_Tab:2131558678,
    style:Theme_AppCompat_CompactMenu:2131558683,
@@ -1520,7 +1521,10 @@ attr:font:2130903193,
    layout:group_view_holder:2131361838,
    layout:list_row:2131361839,
    menu:menu_main:2131427329,
-   string:app_name:2131492897,
+   string:app_name:2131492895,
+   string:basic_tab_text:2131492900,
+   string:expandable_tab_text:2131492906,
+   string:time_text:2131492918,
    style:asAppTheme:2131558801,
    declare-styleable:ActionMenuView:-1,
    styleable:ActionMenuView:-1,

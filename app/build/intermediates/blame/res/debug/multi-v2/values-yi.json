@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-yi\\values-yi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\src\\main\\res\\values-yi\\strings.xml",
+                    "from": {
+                        "startLines": "3,16,15,12,14,8,7,13,4,6,5,10,11,9",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "53,1389,1260,529,631,344,286,575,124,242,181,434,483,390",
+                        "endColumns": "70,531,128,45,628,45,57,55,56,43,60,48,45,43",
+                        "endOffsets": "122,1919,1387,573,1258,388,342,629,179,284,240,481,527,432"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,619,751,800,1432,1481,1542,1601,1661,1708,1772,1824,1873",
+                        "endColumns": "73,489,131,48,631,48,60,58,59,46,63,51,48,46",
+                        "endOffsets": "124,614,746,795,1427,1476,1537,1596,1656,1703,1767,1819,1868,1915"
+                    }
+                }
+            ]
+        }
+    ]
+}

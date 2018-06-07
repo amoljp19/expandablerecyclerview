@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Kopīgot ar %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="app_name">Izvēršamais RecyclerView Demo</string>
+    <string name="app_playstore_long">Izvēršamā atkārtotā Demo lietojumprogramma RecyclerView Demo ietver divus fragmentus ekrānā "BASIC" un "EXPANDABLE". Kā norāda nosaukums. "BASIC" Normal RecyclerView izmanto, lai parādītu vienkāršus vertikāli ritināmus saraksta vienumus, kā parādīts ekrānos taimeris tiks samazināts ik pēc sekundes (piemēram, pieturas skatīšanās). In "EXPANDABLE" pielāgotais RecyclerView (ti, ExpandableRecyclerView), ko izmanto, lai paplašinātu un sakļautu saraksta vienumus. Jūs varat apskatīt arī pirmkodu</string>
+    <string name="app_playstore_short">Demo lietotne RecyclerView un izvēršamam RecyclerView UI atjauninājumam</string>
+    <string name="basic_tab_text">PAMATA</string>
+    <string name="description_content_text">Lorem Ipsum ir vienkārši fiktīvs drukāšanas un salikšanas nozares teksts. Kopš 1500. gadiem Lorem Ipsum ir bijis nozaru standarta ilustrācijas teksts, kad nezināms printeris uzņēma tipa kambīzi un nokasīja to, lai izveidotu tipa paraugu grāmatu. Tas ir izdzīvojis ne tikai piecus gadsimtus, bet arī lēciens elektroniskajā komplektācijā, paliekot būtībā nemainīgs. Tas tika popularizēts 1960-tajos gados, atbrīvojot Letreset loksnes, kas satur Lorem Ipsum fragmenti, un pavisam nesen ar datorizdevniecības programmatūru, piemēram, Aldus PageMaker, ieskaitot Lorem Ipsum versijas.</string>
+    <string name="description_text">imt</string>
+    <string name="drawer_header_text">Interaktīvs</string>
+    <string name="expandable_tab_text">PAPILDINĀJUMS</string>
+    <string name="nav_item_autosilent">Auto klusa</string>
+    <string name="nav_item_help">Palīdzība</string>
+    <string name="nav_item_speedsilent">Ātrs Klusums</string>
     <string msgid="146198913615257606" name="search_menu_title">"Meklēt"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Apakšvirsraksts</string>
+    <string name="time_text">02:35:56</string>
+    <string name="title_text">Ridhams</string>
 </resources>

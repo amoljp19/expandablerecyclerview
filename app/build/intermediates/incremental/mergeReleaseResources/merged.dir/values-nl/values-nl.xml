@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="app_name">Uitbreidbare RecyclerView-demo</string>
+    <string name="app_playstore_long">Uitbreidbare RecyclerView Demo-app bevat twee fragmenten scherm "BASIC" en "UITBREIDBAAR". Zoals de naam suggereert In "BASIC", werd Normale RecyclerView gebruikt om eenvoudige verticaal te scrollen lijstitems te tonen, zoals te zien in de schermen zal de timer elke seconde verkorten (zoals stopwatch). In "EXPANDABLE" wordt aangepaste RecyclerView (dwz ExpandableRecyclerView) gebruikt voor het uitbreiden en samenvouwen van lijstitems. U kunt de broncode ook bekijken</string>
+    <string name="app_playstore_short">Demo-app voor RecyclerView en Expandable RecyclerView UI-update</string>
+    <string name="basic_tab_text">BASIC</string>
+    <string name="description_content_text">Lorem Ipsum is gewoon dummy tekst van de drukkerij- en zetbranche. Lorem Ipsum is de standaard dummy-tekst van de industrie sinds de jaren 1500, toen een onbekende printer een keuken van het type in beslag nam en het tot een soort exemplaarboek maakte. Het heeft niet alleen vijf eeuwen overleefd, maar ook de sprong naar elektronisch zetwerk, en bleef in wezen onveranderd. Het werd gepopulariseerd in de jaren zestig met de uitgave van Letraset-bladen met Lorem Ipsum-passages en meer recent met desktop publishing-software zoals Aldus PageMaker inclusief versies van Lorem Ipsum.</string>
+    <string name="description_text">imt</string>
+    <string name="drawer_header_text">Interactieve</string>
+    <string name="expandable_tab_text">UITBREIDBAAR</string>
+    <string name="nav_item_autosilent">Auto stil</string>
+    <string name="nav_item_help">Helpen</string>
+    <string name="nav_item_speedsilent">Snelheid Stil</string>
     <string msgid="146198913615257606" name="search_menu_title">"Zoeken"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Subtitel</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

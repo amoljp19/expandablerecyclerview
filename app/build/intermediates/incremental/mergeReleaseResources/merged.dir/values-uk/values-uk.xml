@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="app_name">Розширюваний демонстраційний файл RecyclerView</string>
+    <string name="app_playstore_long">Розширювана програма Demo для RecyclerView містить два фрагменти екрану "BASIC" і "EXPANDABLE". Як випливає з назви. У "BASIC" звичайний RecyclerView використовував для показу прості вертикально прокручувані елементи списку. Як показано на екранах, таймер зменшуватиметься кожну секунду (наприклад, зупинка годинника). У "EXPANDABLE" індивідуальний RecyclerView (тобто. ExpandableRecyclerView) використовується для розширення та згортання елементів списку. Ви також можете переглянути вихідний код</string>
+    <string name="app_playstore_short">Демо-додаток для поновлення RecyclerView та розширюваного інтерфейсу RecyclerView</string>
+    <string name="basic_tab_text">BASIC</string>
+    <string name="description_content_text">Lorem Ipsum - це просто фіктивний текст поліграфічної та набірної галузі. Lorem Ipsum був стандартним фіктивним текстом у галузі, починаючи з 1500-х років, коли невідомий принтер зайняв камбузовий тип і згорнув його, щоб зробити книгу зразків. Вона вижила не тільки п'ять століть, але і стрибок у електронний набір, залишаючись практично незмінним. Він був популяризований у 1960-х роках з випуском листів Letraset, що містять панорами Lorem Ipsum, і зовсім недавно з програмним забезпеченням для видавничої системи, такими як Aldus PageMaker, включаючи версії Lorem Ipsum.</string>
+    <string name="description_text">ІМТ</string>
+    <string name="drawer_header_text">Інтерактивний</string>
+    <string name="expandable_tab_text">РОЗШИРЮЄТЬСЯ</string>
+    <string name="nav_item_autosilent">Авто Тихий</string>
+    <string name="nav_item_help">Допомога</string>
+    <string name="nav_item_speedsilent">Швидкість Без звуку</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Підзаголовок</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Ріддем</string>
 </resources>

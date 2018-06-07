@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="app_name">Rozšiřitelná RecyclerView Demo</string>
+    <string name="app_playstore_long">Rozbalitelná aplikace RecyclerView Demo obsahuje dvě fragmenty obrazovky "BASIC" a "EXPANDABLE". Jak naznačuje název V "BASIC", Normal RecyclerView používá ukázat jednoduché vertikálně rolovatelné položky seznamu, Jak je vidět na obrazovkách časovač sníží každou sekundu (jako stopky). V nabídce "EXPANDABLE" je přizpůsobené RecyclerView (tj. ExpandableRecyclerView) rozšiřující a sbalující položky seznamu. Můžete také zobrazit zdrojový kód</string>
+    <string name="app_playstore_short">Aplikace Demo pro aktualizaci uživatelského rozhraní RecyclerView a Expandable RecyclerView</string>
+    <string name="basic_tab_text">ZÁKLADNÍ</string>
+    <string name="description_content_text">Lorem Ipsum je prostě fiktivní text průmyslu tisku a sázek. Lorem Ipsum je standardním figurálním textem od roku 1500, kdy se neznámá tiskárna dostala do kuchyně typu a zkrátila ji, aby vytvořila knihu o vzorcích. Přežívá nejen pět století, ale i skok do elektronické sázek, která se v podstatě nezměnila. To bylo popularizováno v šedesátých létech s vydáním listů Letraset obsahujících pasáže Lorem Ipsum a nedávno s desktopovým publikováním software jako Aldus PageMaker včetně verzí Lorem Ipsum.</string>
+    <string name="description_text">imt</string>
+    <string name="drawer_header_text">Interaktivní</string>
+    <string name="expandable_tab_text">EXPANDABLE</string>
+    <string name="nav_item_autosilent">Auto Silent</string>
+    <string name="nav_item_help">Pomoc</string>
+    <string name="nav_item_speedsilent">Rychlost ticha</string>
     <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Sub Title</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

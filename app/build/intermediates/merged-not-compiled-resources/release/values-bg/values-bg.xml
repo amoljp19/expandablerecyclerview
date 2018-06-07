@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <string name="app_name">Разширяема демонстрация за рециклиране</string>
+    <string name="app_playstore_long">Разширяемото приложение RecyclerView Demo съдържа два фрагмента екран "BASIC" и "EXPANDABLE". Както подсказва наименованието В "BASIC", Normal RecyclerView използва за показване на прости вертикално превъртаеми списъчни елементи, както е показано на екрана, таймерът ще намалява всяка секунда (подобно на следача). В "EXPANDABLE", персонализиран RecyclerView (т.е. ExpandableRecyclerView), използван за разширяване и свиване на елементите в списъка. Можете също да прегледате изходния код</string>
+    <string name="app_playstore_short">Демо версия за обновяване на потребителския интерфейс на RecyclerView и Expandable RecyclerView</string>
+    <string name="basic_tab_text">ОСНОВЕН</string>
+    <string name="description_content_text">Lorem Ipsum е просто манекен текст на индустрията за печатане и подреждане. Lorem Ipsum е стандартният фиктивен текст на индустрията още от 1500-те години, когато един неизвестен принтер взе една галерия от типа и я бъркаше, за да направи книга с образци. Тя е оцеляла не само от пет века, но и скок в електронната подготовка, останала по същество непроменена. Той беше популяризиран през 60-те години на миналия век с пускането на Letraset листа, съдържащи пасажи на Lorem Ipsum, а в последно време и с софтуер за настолни публикации като Aldus PageMaker, включително версии на Lorem Ipsum.</string>
+    <string name="description_text">IMT</string>
+    <string name="drawer_header_text">Интерактивен</string>
+    <string name="expandable_tab_text">РАЗШИРЯВАЩ</string>
+    <string name="nav_item_autosilent">Автоматично тихо</string>
+    <string name="nav_item_help">Помогне</string>
+    <string name="nav_item_speedsilent">Скорост Без звук</string>
     <string msgid="146198913615257606" name="search_menu_title">"Търсене"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Подзаглавие</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

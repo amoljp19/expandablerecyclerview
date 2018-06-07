@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-eo\\values-eo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\src\\main\\res\\values-eo\\strings.xml",
+                    "from": {
+                        "startLines": "3,16,15,12,14,8,7,13,4,6,5,10,11,9",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "53,1347,1231,526,629,339,286,572,118,241,180,429,480,385",
+                        "endColumns": "64,524,115,45,601,45,52,56,61,44,60,50,45,43",
+                        "endOffsets": "116,1870,1345,570,1229,383,337,627,178,284,239,478,524,427"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,611,730,779,1384,1433,1489,1549,1614,1662,1726,1780,1829",
+                        "endColumns": "67,487,118,48,604,48,55,59,64,47,63,53,48,46",
+                        "endOffsets": "118,606,725,774,1379,1428,1484,1544,1609,1657,1721,1775,1824,1871"
+                    }
+                }
+            ]
+        }
+    ]
+}

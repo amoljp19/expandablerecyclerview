@@ -16051,7 +16051,8 @@ com.softaai.expandablerecyclerviewdemo.MainActivity$2$1 -> com.softaai.expandabl
     void <init>(com.softaai.expandablerecyclerviewdemo.MainActivity$2) -> <init>
     void onClick(android.view.View) -> onClick
 com.softaai.expandablerecyclerviewdemo.MainActivity$DesignDemoPagerAdapter -> com.softaai.expandablerecyclerviewdemo.MainActivity$a:
-    void <init>(android.support.v4.app.FragmentManager) -> <init>
+    android.content.Context context -> a
+    void <init>(android.support.v4.app.FragmentManager,com.softaai.expandablerecyclerviewdemo.MainActivity) -> <init>
     android.support.v4.app.Fragment getItem(int) -> a
     int getCount() -> b
     java.lang.CharSequence getPageTitle(int) -> b

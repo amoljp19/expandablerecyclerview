@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expandable RecyclerView Demo</string>
+    <string name="app_playstore_long">Expandable RecyclerView Demo app gen de fragman ekran "BASIC" ak "EXPANDABLE". Kòm non sijere Nan "BASIC", Nòmal RecyclerView itilize yo montre atik ki senp vètikal woulo liv, jan yo montre nan ekran revèy ap redwi chak dezyèm (Tankou arè sispann). Nan "EXPANDABLE", Customized RecyclerView (sètadi ExpandableRecyclerView) itilize yo elaji ak fonn atik lis. Ou ka wè kòd sous la tou</string>
+    <string name="app_playstore_short">Demo app pou RecyclerView ak Expandable RecyclerView UI aktyalizasyon</string>
+    <string name="basic_tab_text">BASIC</string>
+    <string name="description_content_text">Kay Ipsum se tou senpleman enbesil tèks nan endistri a enprime ak karaktè. Kay Ipsum te endèks s estanda enbesil la depi tout tan 1500s yo, lè yon enprimant enkoni te pran yon galley nan kalite ak grenpe li fè yon liv espesifik kalite. Li te siviv pa sèlman senk syèk, men tou, kwasans lan nan elektwonik kalite, ki rete esansyèlman chanje. Li te vulgarize nan ane 1960 yo ak liberasyon an nan Letraset dra ki gen Lorem Ipsum pasaj, ak plis dènyèman ak lojisyèl pibliye Desktop tankou Aldus PageMaker ki gen ladan vèsyon an Lorem Ipsum.</string>
+    <string name="description_text">imt</string>
+    <string name="drawer_header_text">Entèaktif</string>
+    <string name="expandable_tab_text">Ekspansyon</string>
+    <string name="nav_item_autosilent">Auto silans</string>
+    <string name="nav_item_help">Èd</string>
+    <string name="nav_item_speedsilent">Vitès silans</string>
+    <string name="sub_title_text">Tit Sub</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
+</resources>

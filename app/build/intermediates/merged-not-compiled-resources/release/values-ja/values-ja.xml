@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="app_name">拡張可能なRecyclerViewデモ</string>
+    <string name="app_playstore_long">Expandable RecyclerViewデモアプリケーションには、2つのフラグメント画面 "BASIC"と "EXPANDABLE"が含まれています。名前が示唆しているように、「BASIC」では、通常のRecyclerViewは単純な垂直スクロール可能なリスト項目を表示するために使用されました。画面のタイマーは1秒ごとに減少します（ストップウォッチと同様）。 "EXPANDABLE"では、リスト項目の展開と折りたたみに使用されるカスタマイズされたRecyclerView（つまりExpandableRecyclerView）です。あなたはまた、ソースコードを見ることができます</string>
+    <string name="app_playstore_short">RecyclerViewのデモアプリとExpandable RecyclerView UIのアップデート</string>
+    <string name="basic_tab_text">ベーシック</string>
+    <string name="description_content_text">Lorem Ipsumは印刷と植字業界の単純なダミーテキストです。 Lorem Ipsumは、未知のプリンタがタイプのギャレーを取り、それを型標本にするためにスクランブルした1500年代以来、業界の標準的なダミーテキストでした。 5世紀だけでなく、電子的な植字にも飛躍し、本質的に変化しません。それは1960年代にLorem Ipsumのパッセージを含むLetrasetシートのリリースとともに、Lorem Ipsumのバージョンを含むAldus PageMakerのようなデスクトップパブリッシングソフトウェアでさらに普及しました。</string>
+    <string name="description_text">imt</string>
+    <string name="drawer_header_text">インタラクティブ</string>
+    <string name="expandable_tab_text">拡張可能</string>
+    <string name="nav_item_autosilent">オートサイレント</string>
+    <string name="nav_item_help">助けて</string>
+    <string name="nav_item_speedsilent">サイレントスピード</string>
     <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">副題</string>
+    <string name="time_text">02：35：56</string>
+    <string name="title_text">リッダム</string>
 </resources>

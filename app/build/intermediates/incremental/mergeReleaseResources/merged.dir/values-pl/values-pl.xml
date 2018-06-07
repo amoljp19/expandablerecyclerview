@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="app_name">Rozszerzona wersja RecyclerView</string>
+    <string name="app_playstore_long">Rozszerzona aplikacja RecyclerView Demo zawiera dwa fragmenty ekranu "BASIC" i "EXPANDABLE". Jak sugeruje nazwa W "BASIC", Normal RecyclerView używany do wyświetlania prostych przedmiotów przewijanych w pionie, jak pokazano na ekranach, zegar będzie się zmniejszał co sekundę (np. Stoper). W "EXPANDABLE", dostosowany RecyclerView (tj. ExpandableRecyclerView) używany do rozwijania i zwijania elementów listy. Możesz również wyświetlić kod źródłowy</string>
+    <string name="app_playstore_short">Aplikacja demonstracyjna dla aktualizacji interfejsu RecyclerView i Expandable RecyclerView</string>
+    <string name="basic_tab_text">PODSTAWOWY</string>
+    <string name="description_content_text">Lorem Ipsum to po prostu fikcyjny tekst branży drukarskiej i składu. Lorem Ipsum jest standardowym tekstem fikcyjnym w branży od XVI wieku, kiedy to nieznana drukarka wziąła galerię typu i zaszyfrowała ją, by zrobić przykładową książkę. Przetrwał nie tylko pięć wieków, ale także skok do elektronicznego składu, pozostając zasadniczo niezmieniony. Został spopularyzowany w latach 60. wraz z wydaniem albumów Letraset zawierających fragmenty Lorem Ipsum, a ostatnio z oprogramowaniem do publikowania desktopów, takim jak Aldus PageMaker, w tym wersje Lorem Ipsum.</string>
+    <string name="description_text">imt</string>
+    <string name="drawer_header_text">Interaktywny</string>
+    <string name="expandable_tab_text">ROZSZERZALNE</string>
+    <string name="nav_item_autosilent">Auto Silent</string>
+    <string name="nav_item_help">Wsparcie</string>
+    <string name="nav_item_speedsilent">Speed ​​Silent</string>
     <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Tytuł dodatkowy</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

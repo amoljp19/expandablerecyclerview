@@ -16,5 +16,5 @@
 		android:textColor="#ffa8a8a9"
 		android:textStyle="normal"
 		android:textSize="11dp"
-		android:text="imt"/>
+		android:text="@string/description_text"/>
 </RelativeLayout>

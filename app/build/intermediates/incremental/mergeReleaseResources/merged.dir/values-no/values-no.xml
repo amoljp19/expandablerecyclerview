@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Utvidbar RecyclerView Demo</string>
+    <string name="app_playstore_long">Utvidbar RecyclerView Demo app inneholder to fragmenter skjerm "BASIC" og "EXPANDABLE". Som navnet antyder i "BASIC", ble Normal RecyclerView brukt til å vise enkle, vertikalt rullbare listeposter, som vist på skjermbildet vil timeren reduseres hvert sekund (som stoppeklokke). I "EXPANDABLE", tilpasset RecyclerView (dvs. ExpandableRecyclerView) brukes til å utvide og kollapse listeposter. Du kan også se kildekoden</string>
+    <string name="app_playstore_short">Demo app for RecyclerView og Expandable RecyclerView UI oppdatering</string>
+    <string name="basic_tab_text">BASIC</string>
+    <string name="description_content_text">Lorem Ipsum er rett og slett dummy tekst av utskrift og typesetting industrien. Lorem Ipsum har vært bransjens standard dummy-tekst helt siden 1500-tallet, da en ukjent skriver tok et typegalleri og scrambled det for å lage en type prøvebok. Det har overlevd ikke bare fem århundrer, men også spranget i elektronisk typegodkjenning, gjenværende i det vesentlige uendret. Det ble popularisert på 1960-tallet med utgivelsen av Letraset-ark som inneholdt Lorem Ipsum-passasjer, og mer nylig med desktop publishing-programvare som Aldus PageMaker, inkludert versjoner av Lorem Ipsum.</string>
+    <string name="description_text">IMT</string>
+    <string name="drawer_header_text">Interaktiv</string>
+    <string name="expandable_tab_text">Utvid</string>
+    <string name="nav_item_autosilent">Auto Silent</string>
+    <string name="nav_item_help">Hjelp</string>
+    <string name="nav_item_speedsilent">Hastighet Silent</string>
+    <string name="sub_title_text">Undertittel</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
+</resources>

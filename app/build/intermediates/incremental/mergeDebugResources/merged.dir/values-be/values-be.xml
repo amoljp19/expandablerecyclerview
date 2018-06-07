@@ -19,6 +19,20 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Абагуліць з"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Абагуліць з %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згарнуць"</string>
+    <string name="app_name">Пашыраецца RecyclerView Дэманстрацыйны</string>
+    <string name="app_playstore_long">Пашыраецца RecyclerView Demo прыкладанне ўтрымлівае два фрагменты экрана «BASIC» і «раскрываецца». Як падказвае назву У «BASIC», Normal RecyclerView выкарыстоўваецца для адлюстравання простых вертыкальна пракруткай элементаў спісу, як паказана на таймер экранах будзе паменшаная кожны другі (як секундамер). У «пашыраецца», індывідуальныя RecyclerView (г.зн. ExpandableRecyclerView) выкарыстоўваецца для разгортвання і згортвання элементаў спісу. Вы можаце прагледзець зыходны код таксама</string>
+    <string name="app_playstore_short">Дэма-дадатак для RecyclerView і пашыраемага абнаўлення RecyclerView UI</string>
+    <string name="basic_tab_text">Бейсик</string>
+    <string name="description_content_text">Lorem Ipsum проста манекен тэксту друку і вёрсткі прамысловасці. Lorem Ipsum з'яўляецца стандартнай ў прамысловасці з манекен тэксту яшчэ з 1500-х гадоў, калі невядомы прынтэр прыняў камбуз тыпу і кінуліся яго, каб зрабіць кнігу тыпу ўзору. Ён перажыў не толькі пяць стагоддзяў, але і перасягнуў ў электронны вёрсткі, застаючыся практычна нязменнай. Гэта было папулярным у 1960-я гады з выпускам Letraset лістоў, якія змяшчаюць урыўкі Lorem Ipsum, і зусім нядаўна з настольнай выдавецкай сістэмы праграмнага забеспячэння, як Aldus PageMaker уключаючы версіі Lorem Ipsum.</string>
+    <string name="description_text">Цім</string>
+    <string name="drawer_header_text">інтэрактыўны</string>
+    <string name="expandable_tab_text">ўспеньвальнага</string>
+    <string name="nav_item_autosilent">аўто Бясшумны</string>
+    <string name="nav_item_help">дапамогу</string>
+    <string name="nav_item_speedsilent">хуткасць Бясшумны</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"больш за 999"</string>
+    <string name="sub_title_text">падзагаловак</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>
