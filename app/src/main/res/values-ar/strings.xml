@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">توسيع RecyclerView التجريبي</string>
+	<string name="nav_item_autosilent">السيارات الصامتة</string>
+	<string name="nav_item_speedsilent">السرعة الصامتة</string>
+	<string name="nav_item_help">مساعدة</string>
+	<string name="drawer_header_text">متفاعل</string>
+	<string name="description_text">IMT</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">العنوان الفرعي</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">للتوسيع</string>
+	<string name="description_content_text">لوريم إيبسوم (Lorem Ipsum) هو ببساطة نص شكلي في صناعة الطباعة والتنضيد. لقد كان لوريم إيبسوم النص المعياري التقليدي في الصناعة منذ القرن السادس عشر ، عندما أخذت طابعة غير معروفة مجموعة من الأطباق وضمتها لعمل كتاب من نوع العينة. وقد نجا ليس فقط خمسة قرون ، ولكن أيضا قفزة في التنضيد الإلكتروني ، وتبقى في الأساس دون تغيير. تم تعميمها في الستينيات مع إصدار أوراق Letraset التي تحتوي على ممرات Lorem Ipsum ، ومؤخرًا مع برامج النشر المكتبي مثل Aldus PageMaker بما في ذلك إصدارات Lorem Ipsum.</string>
+	<string name="app_playstore_short">التطبيق التجريبي ل RecyclerView وتحديث واجهة المستخدم RecyclerView التحديث</string>
+	<string name="app_playstore_long">يحتوي التطبيق التجريبي RecyclerView التوضيحي القابل للتوسيع على شظايا الشاشة &quot;BASIC&quot; و &quot;EXPANDABLE&quot;. كما يقترح الاسم في &quot;BASIC&quot; ، استخدم RecyclerView العادي لإظهار عناصر قائمة قابلة للتمرير عموديًا بسيطًا ، كما هو موضح في مؤقت شاشات سيتم تقليل كل ثانية (مثل ساعة التوقف). في &quot;EXPANDABLE&quot; ، مخصص RecyclerView (على سبيل المثال ، ExpandableRecyclerView) المستخدمة لتوسيع و طي عناصر القائمة. يمكنك عرض شفرة المصدر أيضا</string>
+
+</resources>

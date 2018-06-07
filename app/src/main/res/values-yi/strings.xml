@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">עקספּאַנדאַבלע רעסיקלערעוויעוו דעמאָ</string>
+	<string name="nav_item_autosilent">Auto Silent</string>
+	<string name="nav_item_speedsilent">Speed ​​Silent</string>
+	<string name="nav_item_help">הילף</string>
+	<string name="drawer_header_text">ינטעראַקטיווע</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">סוב טיטל</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">EXPANDABLE</string>
+	<string name="description_content_text">די פירמע איז פשוט דאַמי טעקסט פון די דרוקן און טייפּסעטינג אינדוסטריע. די פירמע איז די אינדוסטריעלע סטאַנדאַרט דאַמי טעקסט זינט די 1500 ס, ווען אַן אומבאַקאַנט דרוקער גענומען אַ גאַלי פון טיפּ און סקראַמבאַלד עס צו מאַכן אַ טיפּ מוסטער בוך. עס האט ניט בלויז פינף סענטשעריז, אָבער אויך דער שפּרינגען אין עלעקטראָניש טייפּסעטינג, רימיינינג יסענשאַלי אַנטשיינדזשד. עס איז געווען פּאָפּולאַריזעד אין די 1960 ס מיט די מעלדונג פון לעטראַסעט שיץ מיט לאָרעם יפּסום פּאַסידזשיז, און לעצטנס מיט דעסקטאַפּ פֿאַר דרוקן ווייכווארג ווי Aldus PageMaker אַרייַנגערעכנט ווערסיעס פון Lorem Ipsum.</string>
+	<string name="app_playstore_short">דעמאָ אַפּ פֿאַר ריסייקלערוויעוו און עקספּאַנדאַבלע רעסיקלערעוויעוו וי דערהייַנטיקן</string>
+	<string name="app_playstore_long">עקספּאַנדאַבלע רעסיקלערוויעוו דעמאָ אַפּ כּולל צוויי פראַגמאַנץ פאַרשטעלן &quot;באַסיק&quot; און &quot;עקספּאַנדאַבאַל&quot;. ווי נאָמען סאַגדזשעסץ אין &quot;BASIC&quot;, Normal RecyclerView געניצט צו ווייַזן פּשוט ווערטיקלי סקראָללאַבלע רשימה יטעמס, ווי געוויזן אין סקרינז טייַמער וועט רידוסט יעדער רגע (ווי האַלטן וואַך). אין &quot;EXPANDABLE&quot;, customized RecyclerView (ד&quot;ה ExpandableRecyclerView) געניצט צו יקספּאַנד און קאַלאַפּסט רשימה זאכן. איר קענט אויך זען די מקור קאָד</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Demo ya Upanuzi wa Safari ya Kusambaza</string>
+	<string name="nav_item_autosilent">Upole Kimya</string>
+	<string name="nav_item_speedsilent">Kasi kimya</string>
+	<string name="nav_item_help">Msaada</string>
+	<string name="drawer_header_text">Kuingiliana</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Kichwa cha chini</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">HABARI</string>
+	<string name="description_content_text">Lorem Ipsum ni maandishi ya dummy ya sekta ya uchapishaji na aina. Lorem Ipsum imekuwa maandishi ya kawaida ya maandishi tangu miaka ya 1500, wakati printer haijulikani ilichukua aina ya aina na ikajifungua ili kufanya kitabu cha specimen ya aina. Imefanikiwa sio tu karne tano tu, lakini pia kuruka kwenye aina ya elektroniki, iliyobaki kimsingi bila kubadilika. Ilikuwa maarufu kwa miaka ya 1960 na kutolewa kwa karatasi za Letraset zilizo na vifungu vya Lorem Ipsum, na hivi karibuni na programu ya kuchapisha desktop kama Aldus PageMaker ikiwa ni pamoja na matoleo ya Lorem Ipsum.</string>
+	<string name="app_playstore_short">Programu ya Demo ya Usajili wa Kuvinjari na Usawazishaji wa Usindikaji wa Utoreshaji wa UI</string>
+	<string name="app_playstore_long">Programu ya Demo ya Programu ya Programu ya Kupanua ya Programu inayowezesha ina vipande viwili vya skrini &quot;BASIC&quot; na &quot;HABI&quot;. Kama jina linalopendekeza Katika &quot;BASIC&quot;, Usalama wa kawaida wa KuangaliaView unatumika kuonyesha vipengele vya Orodha ya Vipengele rahisi, kama inavyoonyeshwa kwenye skrini ya timer itapunguzwa kila pili (Kama kuangalia saa). Katika &quot;HABARI&quot;, umeboreshwa RecyclerView (yaani ExpandableRecyclerView) kutumika kwa kupanua na kuanguka vitu vitu. Unaweza kuona msimbo wa chanzo pia</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Razširljiv RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Samodejno tiho</string>
+	<string name="nav_item_speedsilent">Hitrost tiho</string>
+	<string name="nav_item_help">Pomoč</string>
+	<string name="drawer_header_text">Interaktivno</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Pod Naslov</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">EXPANDABLE</string>
+	<string name="description_content_text">Lorem Ipsum je preprosto lutkasto besedilo industrije tiskanja in oblikovanja. Lorem Ipsum je že od 1500-ih let prejšnjega stoletja v industriji s standardnimi tekstilnimi besedami, ko je neznan tiskalnik vzel tip kuhinje in ga preizkusil, da bi naredil vrsto vzorčne knjige. Preživela je ne samo pet stoletij, ampak tudi preskok v elektronsko oblikovanje, ostajajo v bistvu nespremenjeni. V šestdesetih letih prejšnjega stoletja so ga popularizirali z izdajo listov Letraset, ki vsebujejo odlomke Lorem Ipsum, in nedavno s programsko opremo za namizno založništvo, kot je Aldus PageMaker, vključno z različicami Lorem Ipsum.</string>
+	<string name="app_playstore_short">Demo aplikacija za posodobitev posodobljenega uporabniškega vmesnika RecyclerView in razširljiv pregledovalnik pregledov</string>
+	<string name="app_playstore_long">Razširljiva aplikacija RecyclerView Demo vsebuje dva odseka zaslona &quot;BASIC&quot; in &quot;EXPANDABLE&quot;. Kot navaja ime V &quot;BASIC&quot;, Normal RecyclerView je uporabil za prikaz preprostih navpično pomikljivih elementov seznama, kot je prikazano na zaslonih, se bo časomernik vsake sekunde zmanjšal (podobno kot ustavljanje časa). V &quot;EXPANDABLE&quot; je prilagojen RecyclerView (npr. ExpandableRecyclerView), ki se uporablja za razširitev in uničenje elementov seznama. Izvirno kodo si lahko ogledate tudi</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Etendebla Reciklo Rigardi Demo</string>
+	<string name="nav_item_autosilent">Aŭtomata Silenta</string>
+	<string name="nav_item_speedsilent">Rapida Silenta</string>
+	<string name="nav_item_help">Helpo</string>
+	<string name="drawer_header_text">Interaga</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Sub Titolo</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">Neatendebla</string>
+	<string name="description_content_text">Lorem Ipsum estas simple maniquita teksto de la presado kaj kompostado industrio. Lorem Ipsum estis la industrio norma dummy-teksto ekde la 1500-aj jaroj, kiam nekonata presilo prenis galegan tipon kaj ruliĝis ĝin por fari specimenan libron. Ĝi postvivis ne nur kvin jarcentojn, sed ankaŭ la salton en elektronika kompostado, restante esence neŝanĝebla. Ĝi estis popularigita en la 1960-aj jaroj kun la ĵeto de Letraset-folioj enhavantaj Lorem Ipsum-paŝojn, kaj pli ĵus kun labortabla eldonejo kiel Aldus PageMaker inkluzive de versioj de Lorem Ipsum.</string>
+	<string name="app_playstore_short">Demo app por RecyclerView kaj Expandable Recycler Rigardi UI ĝisdatigo</string>
+	<string name="app_playstore_long">Amplifininda Recikikilo Rigardi Demo-programo enhavas du fragmentojn de ekrano &quot;BASIC&quot; kaj &quot;Eksponeblaj&quot;. Kiel nomo sugestas En &quot;BASIC&quot;, Normala RecyclerView uzata por montri simplan vertikale scrollable Listo Erojn, Kiel montrita en ekranoj temporilo reduktos ĉiun duan (Kiel halta horloĝo). En &quot;Neatendebla&quot;, personigita RecyclerView (te ExpandableRecyclerView) uzata por ekspansiiĝi ​​kaj kolapsi liston. Vi povas vidi la fontkodon ankaŭ</string>
+
+</resources>

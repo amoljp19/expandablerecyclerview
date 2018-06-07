@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Izvēršamais RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Auto klusa</string>
+	<string name="nav_item_speedsilent">Ātrs Klusums</string>
+	<string name="nav_item_help">Palīdzība</string>
+	<string name="drawer_header_text">Interaktīvs</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Ridhams</string>
+	<string name="sub_title_text">Apakšvirsraksts</string>
+	<string name="time_text">02:35:56</string>
+	<string name="basic_tab_text">PAMATA</string>
+	<string name="expandable_tab_text">PAPILDINĀJUMS</string>
+	<string name="description_content_text">Lorem Ipsum ir vienkārši fiktīvs drukāšanas un salikšanas nozares teksts. Kopš 1500. gadiem Lorem Ipsum ir bijis nozaru standarta ilustrācijas teksts, kad nezināms printeris uzņēma tipa kambīzi un nokasīja to, lai izveidotu tipa paraugu grāmatu. Tas ir izdzīvojis ne tikai piecus gadsimtus, bet arī lēciens elektroniskajā komplektācijā, paliekot būtībā nemainīgs. Tas tika popularizēts 1960-tajos gados, atbrīvojot Letreset loksnes, kas satur Lorem Ipsum fragmenti, un pavisam nesen ar datorizdevniecības programmatūru, piemēram, Aldus PageMaker, ieskaitot Lorem Ipsum versijas.</string>
+	<string name="app_playstore_short">Demo lietotne RecyclerView un izvēršamam RecyclerView UI atjauninājumam</string>
+	<string name="app_playstore_long">Izvēršamā atkārtotā Demo lietojumprogramma RecyclerView Demo ietver divus fragmentus ekrānā &quot;BASIC&quot; un &quot;EXPANDABLE&quot;. Kā norāda nosaukums. &quot;BASIC&quot; Normal RecyclerView izmanto, lai parādītu vienkāršus vertikāli ritināmus saraksta vienumus, kā parādīts ekrānos taimeris tiks samazināts ik pēc sekundes (piemēram, pieturas skatīšanās). In &quot;EXPANDABLE&quot; pielāgotais RecyclerView (ti, ExpandableRecyclerView), ko izmanto, lai paplašinātu un sakļautu saraksta vienumus. Jūs varat apskatīt arī pirmkodu</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Genişlənən RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Avto Sessiz</string>
+	<string name="nav_item_speedsilent">Səssiz səs</string>
+	<string name="nav_item_help">Kömək edin</string>
+	<string name="drawer_header_text">İnteraktiv</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Alt Başlıq</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">Genişlənir</string>
+	<string name="description_content_text">Lorem Ipsum sadəcə çap və yazma sənayesinin dummy mətnidir. Lorem Ipsum, 1500-cü illərdən bəri bilinməyən bir printer növü bir mətbəx aldı və bir növü nümunə kitab etmək üçün pişmiş zaman sənaye standart dummy mətn olmuşdur. Yalnız beş əsrdən artıq deyil, eyni zamanda, dəyişməz olaraq qalıb elektron yazı tipinə sıçrayış. 1960-cı illərdə Lorem Ipsum pasajları olan Letraset vərəqələrinin buraxılması və daha əvvəl Lorus Ipsum versiyaları daxil olmaqla Aldus PageMaker kimi masa üstü nəşriyyat proqramları ilə məşhurlaşdı.</string>
+	<string name="app_playstore_short">RecyclerView və Expandable RecyclerView UI yeniləmə üçün Demo tətbiqi</string>
+	<string name="app_playstore_long">Genişlənən RecyclerView Demo tətbiqi &quot;BASIC&quot; və &quot;EXPANDABLE&quot; iki parçalı ekranı ehtiva edir. Adı &quot;BASIC&quot; -də olduğu kimi, Normal RecyclerView, sadə vertikal kaydırılabilir Siyahı Məhsullarını göstərmək üçün istifadə olunur, Ekranlarda göstərildiyi kimi, hər bir saniyədə (Stop watch kimi) sayğac azalacaq. &quot;Genişlənən&quot; bölməsində, təkrarlanan RecyclerView (yəni ExpandableRecyclerView), siyahı elementlərinin genişləndirilməsi və daraltılması üçün istifadə olunur. Kaynak kodunu da görüntüleyebilirsiniz</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Επεκτάσιμη επίδειξη RecyclerView</string>
+	<string name="nav_item_autosilent">Αυτόματη σιωπή</string>
+	<string name="nav_item_speedsilent">Σιωπηλή ταχύτητα</string>
+	<string name="nav_item_help">Βοήθεια</string>
+	<string name="drawer_header_text">Διαδραστικό</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Ρίντχαμ</string>
+	<string name="sub_title_text">Υπό Τίτλο</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">ΒΑΣΙΚΟΣ</string>
+	<string name="expandable_tab_text">Επεκτασιμότητα</string>
+	<string name="description_content_text">Το Lorem Ipsum είναι απλά ψεύτικο κείμενο της βιομηχανίας τυπογραφίας και τυπογραφίας. Το Lorem Ipsum είναι το τυποποιημένο εικονικό κείμενο της βιομηχανίας από τη δεκαετία του 1500, όταν ένας άγνωστος εκτυπωτής πήρε ένα μαγειρείο τύπου και το κωδικοποίησε για να φτιάξει ένα βιβλίο δείγματος τύπου. Έχει επιβιώσει όχι μόνο πέντε αιώνες, αλλά και το άλμα στην ηλεκτρονική στοιχειοθέτηση, παραμένοντας ουσιαστικά αμετάβλητη. Δημοσιεύθηκε στη δεκαετία του 1960 με την κυκλοφορία των φύλλων Letraset που περιείχαν τα περάσματα Lorem Ipsum και πιο πρόσφατα με το λογισμικό desktop publishing όπως το Aldus PageMaker, συμπεριλαμβανομένων των εκδόσεων του Lorem Ipsum.</string>
+	<string name="app_playstore_short">Εφαρμογή επίδειξης για ανανέωση UI ΑνακύκλωσηςΠεριεχόμενα και Αναπτυσσόμενο Ανακυκλωτή Αναγνώρισης</string>
+	<string name="app_playstore_long">Η επεκτάσιμη εφαρμογή RecyclerView Demo περιέχει δύο θραύσματα οθόνης &quot;BASIC&quot; και &quot;EXPANDABLE&quot;. Όπως υποδηλώνει το όνομα Στο &quot;BASIC&quot;, το Normal RecyclerView χρησιμοποιείται για να δείχνει απλά κατακόρυφα μετακινούμενα στοιχεία λίστας, όπως φαίνεται στις οθόνες, ο χρονομετρητής θα μειωθεί κάθε δευτερόλεπτο. Στο &quot;EXPANDABLE&quot;, προσαρμοσμένο RecyclerView (δηλ. ExpandableRecyclerView) που χρησιμοποιείται για την επέκταση και τη συμπίεση στοιχείων λίστας. Μπορείτε επίσης να δείτε τον πηγαίο κώδικα</string>
+
+</resources>

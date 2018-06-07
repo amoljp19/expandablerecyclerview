@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Rozšiřitelná RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Auto Silent</string>
+	<string name="nav_item_speedsilent">Rychlost ticha</string>
+	<string name="nav_item_help">Pomoc</string>
+	<string name="drawer_header_text">Interaktivní</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Sub Title</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">ZÁKLADNÍ</string>
+	<string name="expandable_tab_text">EXPANDABLE</string>
+	<string name="description_content_text">Lorem Ipsum je prostě fiktivní text průmyslu tisku a sázek. Lorem Ipsum je standardním figurálním textem od roku 1500, kdy se neznámá tiskárna dostala do kuchyně typu a zkrátila ji, aby vytvořila knihu o vzorcích. Přežívá nejen pět století, ale i skok do elektronické sázek, která se v podstatě nezměnila. To bylo popularizováno v šedesátých létech s vydáním listů Letraset obsahujících pasáže Lorem Ipsum a nedávno s desktopovým publikováním software jako Aldus PageMaker včetně verzí Lorem Ipsum.</string>
+	<string name="app_playstore_short">Aplikace Demo pro aktualizaci uživatelského rozhraní RecyclerView a Expandable RecyclerView</string>
+	<string name="app_playstore_long">Rozbalitelná aplikace RecyclerView Demo obsahuje dvě fragmenty obrazovky &quot;BASIC&quot; a &quot;EXPANDABLE&quot;. Jak naznačuje název V &quot;BASIC&quot;, Normal RecyclerView používá ukázat jednoduché vertikálně rolovatelné položky seznamu, Jak je vidět na obrazovkách časovač sníží každou sekundu (jako stopky). V nabídce &quot;EXPANDABLE&quot; je přizpůsobené RecyclerView (tj. ExpandableRecyclerView) rozšiřující a sbalující položky seznamu. Můžete také zobrazit zdrojový kód</string>
+
+</resources>

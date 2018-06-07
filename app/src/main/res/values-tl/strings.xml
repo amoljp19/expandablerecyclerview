@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Napapalawak na RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Auto Silent</string>
+	<string name="nav_item_speedsilent">Pabilisin ang Tahimik</string>
+	<string name="nav_item_help">Tulong</string>
+	<string name="drawer_header_text">Interactive</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Sub Pamagat</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BATAYANG</string>
+	<string name="expandable_tab_text">MAHALAGA</string>
+	<string name="description_content_text">Ang Lorem Ipsum ay simpleng teksto ng industriya ng pag-print at pag-type. Si Lorem Ipsum ay isang standard na dummy text sa industriya mula noong 1500s, nang kumuha ng isang hindi kilalang printer ang isang uri ng bangkang de kusina at pinirituhan ito upang makagawa ng isang uri ng aklat ng ispesimen. Nakaligtas ito hindi lamang limang siglo, kundi pati na rin ang paglukso sa mga electronic na pampalimbagan, natitirang mahalagang hindi nabago. Ipinakalat ito noong dekada 1960 sa pagpapalabas ng Letraset sheet na naglalaman ng mga sipi ng Lorem Ipsum, at mas kamakailan sa desktop publishing software tulad ng Aldus PageMaker kabilang ang mga bersyon ng Lorem Ipsum.</string>
+	<string name="app_playstore_short">Demo app para sa pag-update ng RecyclerView at Napapalawak na RecyclerView UI</string>
+	<string name="app_playstore_long">Ang napapalawak na RecyclerView Demo app ay naglalaman ng dalawang mga fragment na screen na &quot;BATAYANG&quot; at &quot;NAGBABAGO&quot;. Bilang nagmumungkahi ang pangalan Sa &quot;BATAYANG&quot;, ang Karaniwang RecyclerView ay ginagamit upang ipakita ang mga simpleng mga item na Listahan ng Mga Listahan ng Pag-scroll, Tulad ng ipinapakita sa screen na timer ay mababawasan bawat segundo (Tulad ng stop watch). Sa &quot;EXPANDABLE&quot;, na-customize na RecyclerView (ie ExpandableRecyclerView) na ginamit upang palawakin at pag-collapse ng mga item sa listahan. Maaari mo ring tingnan ang source code</string>
+
+</resources>

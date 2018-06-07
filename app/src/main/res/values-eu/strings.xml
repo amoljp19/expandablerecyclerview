@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Zabaldutako RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Auto isilik</string>
+	<string name="nav_item_speedsilent">Abiadura isila</string>
+	<string name="nav_item_help">Laguntza</string>
+	<string name="drawer_header_text">Interactive</string>
+	<string name="description_text">IMT</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Sub titulua</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">Handitu</string>
+	<string name="description_content_text">Lorem Ipsum inprimaketa eta konposaketako industria hutsa da. Lorem Ipsum-ek 1500garrenaz geroztik fabrikazioko mekanika estandarraren industria izan da, inprimagailu ezezagun batek motako galeriak hartu zituen eta nahasketa moduko liburu bat egiteko. Bost mendeetan zehar bizirik iraun du, baina konposaketa elektronikora jauzi egin du, eta funtsean ez da aldatu. 1960ko hamarkadan ezaguna zen Letraset orriak, Lorem Ipsum pasarteak dituztenak, eta berriki, Aldus PageMaker bezalako mahaigaineko argitalpen softwarea, Lorem Ipsum bertsioak barne.</string>
+	<string name="app_playstore_short">RecyclerView eta zabaldutako RecyclerView UI eguneratzea Demo aplikazioa</string>
+	<string name="app_playstore_long">Zabaldutako RecyclerView Demo aplikazioak bi zati ditu &quot;BASIC&quot; eta &quot;EXPANDABLE&quot; pantailan. Izena dioen bezala &quot;OINARRIZKOA&quot; atalean, Normal RecyclerView erabiliko da zerrenda bertikalki mugi daitezkeen elementuak erakusteko. Pantailako tenporizadorean agertzen den bezala, segundo bakoitza gutxituko da (Stop watch). &quot;EXPANDABLE&quot; aplikazioan, RecyclerView pertsonalizatua (hau da, ExpandableRecyclerView) erabiltzen da zerrendako elementuak zabaltzeko eta kolapsatzeko. Iturburu kodea ere ikus dezakezu</string>
+
+</resources>

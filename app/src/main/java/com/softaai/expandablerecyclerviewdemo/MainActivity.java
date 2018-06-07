@@ -1,5 +1,6 @@
 package com.softaai.expandablerecyclerviewdemo;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.FloatingActionButton;
@@ -73,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
 				}
 			});
 
-        DesignDemoPagerAdapter adapter = new DesignDemoPagerAdapter(getSupportFragmentManager());
+        DesignDemoPagerAdapter adapter = new DesignDemoPagerAdapter(getSupportFragmentManager(), MainActivity.this);
         ViewPager viewPager = (ViewPager)findViewById(R.id.viewpager);
         viewPager.setAdapter(adapter);
         TabLayout tabLayout = (TabLayout)findViewById(R.id.tablayout);
@@ -141,9 +142,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     static class DesignDemoPagerAdapter extends FragmentStatePagerAdapter {
-
-        public DesignDemoPagerAdapter(FragmentManager fm) {
+        Context context;
+        public DesignDemoPagerAdapter(FragmentManager fm, MainActivity mainActivity) {
             super(fm);
+            context = mainActivity;
         }
 
         @Override
@@ -179,11 +181,11 @@ public class MainActivity extends AppCompatActivity {
 
 			if(position == 0)
 			{
-				return "BASIC";
+				return context.getString(R.string.basic_tab_text);
 			}
 			else 
 			{
-				return "EXPANDABLE";
+				return context.getString(R.string.expandable_tab_text);
 			}
 			
         }

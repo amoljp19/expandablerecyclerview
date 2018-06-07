@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Démonstration RecyclerView extensible</string>
+	<string name="nav_item_autosilent">Auto Silent</string>
+	<string name="nav_item_speedsilent">Vitesse silencieuse</string>
+	<string name="nav_item_help">Aidez-moi</string>
+	<string name="drawer_header_text">Interactif</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Sous-titre</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">DE BASE</string>
+	<string name="expandable_tab_text">EXPANDABLE</string>
+	<string name="description_content_text">Lorem Ipsum est simplement un faux texte de l&#39;industrie de l&#39;impression et de la composition. Lorem Ipsum a été le texte factice standard de l&#39;industrie depuis les années 1500, quand une imprimante inconnue a pris une galère de type et l&#39;a brouillée pour faire un livre spécimen de type. Il a survécu non seulement cinq siècles, mais aussi le saut dans la composition électronique, demeurant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles de Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker, y compris des versions de Lorem Ipsum.</string>
+	<string name="app_playstore_short">Application de démonstration pour RecyclerView et mise à jour de l&#39;interface utilisateur RecyclerView extensible</string>
+	<string name="app_playstore_long">Application démo RecyclerView extensible contient deux fragments écran &quot;BASIC&quot; et &quot;EXPANDABLE&quot;. Comme son nom l&#39;indique Dans &quot;BASIC&quot;, Normal RecyclerView est utilisé pour afficher des éléments de liste simples à défilement vertical, comme indiqué dans les écrans, le minuteur est réduit toutes les secondes (comme le chronomètre). Dans &quot;EXPANDABLE&quot;, RecyclerView (ExpandableRecyclerView) personnalisé permet d&#39;agrandir et de réduire les éléments de la liste. Vous pouvez voir le code source aussi</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Stækkanlegur RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Auto Silent</string>
+	<string name="nav_item_speedsilent">Hraði Silent</string>
+	<string name="nav_item_help">Hjálp</string>
+	<string name="drawer_header_text">Gagnvirkt</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Undirheiti</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">EXPANDABLE</string>
+	<string name="description_content_text">Lorem Ipsum er einfaldlega dummy texti prentun og typesetting iðnaður. Lorem Ipsum hefur verið staðall sögunnar frá iðnaði síðan 1500 áratugnum, þegar óþekktur prentari tók við bústað af gerð og spæna það til að búa til gerð sýnishornabók. Það hefur lifað ekki aðeins fimm öldum, heldur einnig stökkin í rafræn gerð, sem er í meginatriðum óbreytt. Það var vinsælt á 1960 með útgáfu Letraset lakanna sem innihéldu Lorem Ipsum leiðina, og nýlega með skrifborð útgáfa hugbúnaður eins og Aldus PageMaker þar á meðal útgáfur af Lorem Ipsum.</string>
+	<string name="app_playstore_short">Demo app fyrir RecyclerView og Expandable RecyclerView UI uppfærslu</string>
+	<string name="app_playstore_long">Stækkanlegur RecyclerView Demo app inniheldur tvö brot skjá &quot;BASIC&quot; og &quot;EXPANDABLE&quot;. Eins og nafn gefur til kynna í &quot;BASIC&quot;, hefur Normal RecyclerView notað til að sýna einfalda lóðréttan lista yfir lista, eins og sýnt er á skjánum, þá verður tíminn minnkaður á sekúndu (eins og að hætta að horfa á). Í &quot;EXPANDABLE&quot;, sérsniðin RecyclerView (þ.e. ExpandableRecyclerView) notað til að auka og hrynja listatriði. Þú getur líka skoðað kóðann</string>
+
+</resources>

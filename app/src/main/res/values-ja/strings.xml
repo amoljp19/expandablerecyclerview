@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">拡張可能なRecyclerViewデモ</string>
+	<string name="nav_item_autosilent">オートサイレント</string>
+	<string name="nav_item_speedsilent">サイレントスピード</string>
+	<string name="nav_item_help">助けて</string>
+	<string name="drawer_header_text">インタラクティブ</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">リッダム</string>
+	<string name="sub_title_text">副題</string>
+	<string name="time_text">02：35：56</string>
+	<string name="basic_tab_text">ベーシック</string>
+	<string name="expandable_tab_text">拡張可能</string>
+	<string name="description_content_text">Lorem Ipsumは印刷と植字業界の単純なダミーテキストです。 Lorem Ipsumは、未知のプリンタがタイプのギャレーを取り、それを型標本にするためにスクランブルした1500年代以来、業界の標準的なダミーテキストでした。 5世紀だけでなく、電子的な植字にも飛躍し、本質的に変化しません。それは1960年代にLorem Ipsumのパッセージを含むLetrasetシートのリリースとともに、Lorem Ipsumのバージョンを含むAldus PageMakerのようなデスクトップパブリッシングソフトウェアでさらに普及しました。</string>
+	<string name="app_playstore_short">RecyclerViewのデモアプリとExpandable RecyclerView UIのアップデート</string>
+	<string name="app_playstore_long">Expandable RecyclerViewデモアプリケーションには、2つのフラグメント画面 &quot;BASIC&quot;と &quot;EXPANDABLE&quot;が含まれています。名前が示唆しているように、「BASIC」では、通常のRecyclerViewは単純な垂直スクロール可能なリスト項目を表示するために使用されました。画面のタイマーは1秒ごとに減少します（ストップウォッチと同様）。 &quot;EXPANDABLE&quot;では、リスト項目の展開と折りたたみに使用されるカスタマイズされたRecyclerView（つまりExpandableRecyclerView）です。あなたはまた、ソースコードを見ることができます</string>
+
+</resources>

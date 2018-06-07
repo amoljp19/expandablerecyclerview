@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">การสาธิต RecyclerView ที่ขยายได้</string>
+	<string name="nav_item_autosilent">เงียบอัตโนมัติ</string>
+	<string name="nav_item_speedsilent">ความเร็วเงียบ</string>
+	<string name="nav_item_help">ช่วยด้วย</string>
+	<string name="drawer_header_text">อินเตอร์แอคที</string>
+	<string name="description_text">imt</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">ชื่อย่อย</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">ขั้นพื้นฐาน</string>
+	<string name="expandable_tab_text">ขยายได้</string>
+	<string name="description_content_text">Lorem Ipsum เป็นเพียงข้อความหลอกลวงของอุตสาหกรรมการพิมพ์และการเรียงลำดับ Lorem Ipsum เป็นข้อความ dummy มาตรฐานของอุตสาหกรรมนับตั้งแต่ศตวรรษที่ 1500 เมื่อเครื่องพิมพ์ที่ไม่รู้จักใช้ห้องเก็บของและพิมพ์เพื่อสร้างหนังสือตัวอย่างประเภท มันมีชีวิตรอดไม่เพียง แต่ห้าศตวรรษ แต่ยังก้าวกระโดดในการเรียงพิมพ์อิเล็กทรอนิกส์ที่เหลือเป็นหลักไม่เปลี่ยนแปลง เป็นที่นิยมในทศวรรษ 1960 ด้วยการเปิดตัวแผ่น Letraset ที่มี Lorem Ipsum passages และอีกไม่นานเมื่อมีซอฟต์แวร์สำหรับเผยแพร่เดสก์ท็อปเช่น Aldus PageMaker รวมถึง Lorem Ipsum รุ่นต่างๆ</string>
+	<string name="app_playstore_short">แอปสาธิตสำหรับ RecyclerView และการอัปเดต UI ของ RecyclerView ที่ขยายได้</string>
+	<string name="app_playstore_long">แอปพลิเคชันการสาธิต RecyclerView แบบขยายได้ประกอบด้วยหน้าจอ &quot;BASIC&quot; และ &quot;EXPANDABLE&quot; 2 ชิ้น Normal RecyclerView ใช้ในการแสดงรายการในรายการแบบเลื่อนที่เรียบง่ายตามที่ปรากฏในหน้าจอหลัก &quot;BASIC&quot; Normal RecyclerView ใช้เพื่อแสดงรายการในรายการแบบเลื่อนตามแนวตั้งที่แสดงในตัวจับเวลาของหน้าจอจะลดลงทุกๆวินาที (เช่น stop watch) ใน &quot;EXPANDABLE&quot;, Custom RecyclerView (เช่น ExpandableRecyclerView) ที่ใช้ในการขยายและยุบรายการในรายการ คุณสามารถดูซอร์สโค้ดได้ด้วย</string>
+
+</resources>

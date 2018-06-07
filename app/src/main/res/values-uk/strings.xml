@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Розширюваний демонстраційний файл RecyclerView</string>
+	<string name="nav_item_autosilent">Авто Тихий</string>
+	<string name="nav_item_speedsilent">Швидкість Без звуку</string>
+	<string name="nav_item_help">Допомога</string>
+	<string name="drawer_header_text">Інтерактивний</string>
+	<string name="description_text">ІМТ</string>
+	<string name="title_text">Ріддем</string>
+	<string name="sub_title_text">Підзаголовок</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">BASIC</string>
+	<string name="expandable_tab_text">РОЗШИРЮЄТЬСЯ</string>
+	<string name="description_content_text">Lorem Ipsum - це просто фіктивний текст поліграфічної та набірної галузі. Lorem Ipsum був стандартним фіктивним текстом у галузі, починаючи з 1500-х років, коли невідомий принтер зайняв камбузовий тип і згорнув його, щоб зробити книгу зразків. Вона вижила не тільки п&#39;ять століть, але і стрибок у електронний набір, залишаючись практично незмінним. Він був популяризований у 1960-х роках з випуском листів Letraset, що містять панорами Lorem Ipsum, і зовсім недавно з програмним забезпеченням для видавничої системи, такими як Aldus PageMaker, включаючи версії Lorem Ipsum.</string>
+	<string name="app_playstore_short">Демо-додаток для поновлення RecyclerView та розширюваного інтерфейсу RecyclerView</string>
+	<string name="app_playstore_long">Розширювана програма Demo для RecyclerView містить два фрагменти екрану &quot;BASIC&quot; і &quot;EXPANDABLE&quot;. Як випливає з назви. У &quot;BASIC&quot; звичайний RecyclerView використовував для показу прості вертикально прокручувані елементи списку. Як показано на екранах, таймер зменшуватиметься кожну секунду (наприклад, зупинка годинника). У &quot;EXPANDABLE&quot; індивідуальний RecyclerView (тобто. ExpandableRecyclerView) використовується для розширення та згортання елементів списку. Ви також можете переглянути вихідний код</string>
+
+</resources>
