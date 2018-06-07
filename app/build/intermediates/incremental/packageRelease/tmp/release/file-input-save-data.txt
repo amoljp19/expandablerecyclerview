@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 07 23:42:53 IST 2018
+#Thu Jun 07 23:55:09 IST 2018
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
 0.path=classes.dex
