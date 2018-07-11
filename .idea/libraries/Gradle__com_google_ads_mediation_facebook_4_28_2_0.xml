@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:facebook-4.28.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-1/files-1.1/facebook-4.28.2.0.aar/85023ddf9554f554b27ad170f8fbda79/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-1/files-1.1/facebook-4.28.2.0.aar/85023ddf9554f554b27ad170f8fbda79/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.google.ads.mediation/facebook/4.28.2.0/d09ab50254e76a8b161e52e338dc9caf62ef5b78/facebook-4.28.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

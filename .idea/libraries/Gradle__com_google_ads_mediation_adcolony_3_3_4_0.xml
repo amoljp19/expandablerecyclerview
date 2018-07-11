@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:adcolony-3.3.4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-1/files-1.1/adcolony-3.3.4.0.aar/b9a527f2a363038836cbed853ef6062f/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-1/files-1.1/adcolony-3.3.4.0.aar/b9a527f2a363038836cbed853ef6062f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.google.ads.mediation/adcolony/3.3.4.0/f5fb23f378ea8cc4bc3ee6d5e1d1341b7d6ca801/adcolony-3.3.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
