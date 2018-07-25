@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
@@ -17,8 +15,31 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="app_name">Udvidelig RecyclerView Demo</string>
+    <string name="app_playstore_long">" Udvidelig RecyclerView Demo app indeholder to fragmenter skærm BASICand EXPANDABLE. Som navnet antyder I BASIC, har Normal RecyclerView brugt til at vise simple lodret rulbare listeposter, som vist på skærme vil timeren blive reduceret hvert sekund (gerne stopur). I EXPANDABLE, tilpasset RecyclerView (dvs. ExpandableRecyclerView) bruges til at ekspandere og kollapse listeposter. Du kan også se kildekoden også"</string>
+    <string name="app_playstore_short">Demo app til RecyclerView og Expandable RecyclerView UI opdatering</string>
+    <string name="app_playstore_title">Udvidelig RecyclerView Demo</string>
+    <string name="basic_tab_text">GRUNDLÆGGENDE</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> har problemer med Google Play-tjenester. Prøv igen."</string>
+    <string name="description_content_text">Lorem Ipsum er simpelthen dummy tekst af trykning og typesetting industrien. Lorem Ipsum har været industriens standard dummy-tekst lige siden 1500'erne, da en ukendt printer tog et typegalleri og scrambled det for at lave en type prøvebog. Det har overlevet ikke kun fem århundreder, men også spranget i elektronisk formatering, der forbliver stort set uændret. Det blev populariseret i 1960'erne med udgivelsen af ​​Letraset-ark, der indeholdt Lorem Ipsum-passager, og for nylig med desktop publishing software som Aldus PageMaker, herunder versioner af Lorem Ipsum.</string>
+    <string name="description_text">Jeg er t</string>
+    <string name="drawer_header_text">Interaktiv</string>
+    <string name="expandable_tab_text">EKSPANDERBARE</string>
+    <string name="nav_item_autosilent">Auto Silent</string>
+    <string name="nav_item_help">Hjælp</string>
+    <string name="nav_item_speedsilent">Hastighed Silent</string>
+    <string msgid="368094699078615544" name="s1">"Gem billede"</string>
+    <string msgid="4550830452390689489" name="s2">"Vil du tillade, at annoncen gemmer billedet i Galleri?"</string>
+    <string msgid="2435407834265420668" name="s3">"Acceptér"</string>
+    <string msgid="9167523597401839819" name="s4">"Afvis"</string>
+    <string msgid="1566682516266724847" name="s5">"Opret kalenderbegivenhed"</string>
+    <string msgid="5996672174517137271" name="s6">"Vil du tillade, at annoncen opretter en kalenderbegivenhed?"</string>
+    <string msgid="7163549807207034258" name="s7">"Testannonce"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Søg"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_title_text">Undertitel</string>
+    <string name="time_text">02: 35: 56</string>
+    <string name="title_text">Riddham</string>
 </resources>

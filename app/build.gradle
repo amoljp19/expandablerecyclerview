@@ -1,15 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 27
     buildToolsVersion "27.0.3"
 
     defaultConfig {
         applicationId "com.softaai.expandablerecyclerviewdemo"
         minSdkVersion 14
-        targetSdkVersion 26
-        versionCode 5
+        targetSdkVersion 27
+        versionCode 7
         versionName "1.0.3"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -29,8 +30,27 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation "com.android.support:appcompat-v7:26.1.0"
-    implementation "com.android.support:design:26.1.0"
-    implementation "com.android.support:cardview-v7:26.1.0"
-    implementation "com.android.support:recyclerview-v7:26.1.0"
+    implementation "com.android.support:appcompat-v7:27.1.1"
+    implementation "com.android.support:design:27.1.1"
+    implementation "com.android.support:cardview-v7:27.1.1"
+    implementation "com.android.support:recyclerview-v7:27.1.1"
+    implementation "com.google.android.gms:play-services-ads:15.0.1"
+
+    implementation 'com.android.support:multidex:1.0.3'
+
+    //admob monetization sdks
+
+    implementation 'com.adcolony:sdk:3.3.4'
+    implementation 'com.android.support:support-annotations:27.1.1'
+    implementation 'com.google.ads.mediation:adcolony:3.3.4.0'
+
+    implementation 'com.applovin:applovin-sdk:7.8.6'
+    implementation 'com.google.ads.mediation:applovin:7.8.6.0'
+
+    implementation 'com.inmobi.monetization:inmobi-ads:7.0.2'
+    implementation 'com.google.ads.mediation:inmobi:7.0.2.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+
+    implementation 'com.my.target:mytarget-sdk:5.1.0'
+    implementation 'com.google.ads.mediation:mytarget:5.1.0.0'
 }

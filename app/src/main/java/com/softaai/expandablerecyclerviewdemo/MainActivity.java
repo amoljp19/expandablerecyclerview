@@ -28,6 +28,9 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 import java.util.*;
+
+import com.adcolony.sdk.AdColony;
+import com.applovin.sdk.AppLovinSdk;
 import com.softaai.expandablerecyclerviewdemo.*;
 
 
@@ -39,6 +42,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        AdColony.configure(this,           // activity context
+                "appdcff5318551c4d299b",
+                "vz900471727cc240169f", "vz4f9ee2f5315048a599");
+        AppLovinSdk.initializeSdk(this);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

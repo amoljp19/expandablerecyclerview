@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Udvidelig RecyclerView Demo</string>
+	<string name="nav_item_autosilent">Auto Silent</string>
+	<string name="nav_item_speedsilent">Hastighed Silent</string>
+	<string name="nav_item_help">Hjælp</string>
+	<string name="drawer_header_text">Interaktiv</string>
+	<string name="description_text">Jeg er t</string>
+	<string name="title_text">Riddham</string>
+	<string name="sub_title_text">Undertitel</string>
+	<string name="time_text">02: 35: 56</string>
+	<string name="basic_tab_text">GRUNDLÆGGENDE</string>
+	<string name="expandable_tab_text">EKSPANDERBARE</string>
+	<string name="description_content_text">Lorem Ipsum er simpelthen dummy tekst af trykning og typesetting industrien. Lorem Ipsum har været industriens standard dummy-tekst lige siden 1500&#39;erne, da en ukendt printer tog et typegalleri og scrambled det for at lave en type prøvebog. Det har overlevet ikke kun fem århundreder, men også spranget i elektronisk formatering, der forbliver stort set uændret. Det blev populariseret i 1960&#39;erne med udgivelsen af ​​Letraset-ark, der indeholdt Lorem Ipsum-passager, og for nylig med desktop publishing software som Aldus PageMaker, herunder versioner af Lorem Ipsum.</string>
+	<string name="app_playstore_title">Udvidelig RecyclerView Demo</string>
+	<string name="app_playstore_short">Demo app til RecyclerView og Expandable RecyclerView UI opdatering</string>
+	<string name="app_playstore_long">" Udvidelig RecyclerView Demo app indeholder to fragmenter skærm BASICand EXPANDABLE. Som navnet antyder I BASIC, har Normal RecyclerView brugt til at vise simple lodret rulbare listeposter, som vist på skærme vil timeren blive reduceret hvert sekund (gerne stopur). I EXPANDABLE, tilpasset RecyclerView (dvs. ExpandableRecyclerView) bruges til at ekspandere og kollapse listeposter. Du kan også se kildekoden også"</string>
+
+</resources>

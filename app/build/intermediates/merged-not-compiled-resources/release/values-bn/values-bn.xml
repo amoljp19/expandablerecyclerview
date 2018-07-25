@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"হোম এ নেভিগেট করুন"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"উপরের দিকে নেভিগেট করুন"</string>
-    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"আরো বিকল্প"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"আরও বিকল্প"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"সম্পন্ন হয়েছে"</string>
     <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"সবগুলো দেখুন"</string>
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"একটি অ্যাপ্লিকেশান বেছে নিন"</string>
@@ -12,17 +10,19 @@
     <string msgid="3405795526292276155" name="abc_capital_on">"চালু"</string>
     <string msgid="7723749260725869598" name="abc_search_hint">"অনুসন্ধান..."</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ক্যোয়ারী সাফ করুন"</string>
-    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ক্যোয়ারী অনুসন্ধান করুন"</string>
-    <string msgid="8264924765203268293" name="abc_searchview_description_search">"অনুসন্ধান করুন"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ক্যোয়ারী খুঁজুন"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"খুঁজুন"</string>
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ক্যোয়ারী জমা দিন"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"ভয়েস অনুসন্ধান"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"এর সাথে শেয়ার করুন"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s এর সাথে শেয়ার করুন"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> এর সাথে শেয়ার করুন"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"সঙ্কুচিত করুন"</string>
-    <string name="app_name">প্রসারিতযোগ্য Recycler ভিউ ডেমো</string>
+    <string name="app_name">এক্সক্লুসিভ রিসাইক্লার ভিউ ডেমো</string>
     <string name="app_playstore_long">সম্প্রসারিত RecyclerView ডেমো অ্যাপ্লিকেশন দুটি টুকরা পর্দা "বেসিক" এবং "এক্সপ্যান্ডেবল" রয়েছে নামটি "বেসিক" তে প্রস্তাবিত হয়, স্বাভাবিক রিসাইক্লাই-ভিউ সহজ উল্লম্ব স্ক্রোলযোগ্য তালিকা আইটেমগুলি প্রদর্শন করতে ব্যবহৃত হয়, পর্দা টাইমার হিসাবে দেখানো প্রতিটি সেকেন্ডের হ্রাস হবে (স্টপ ওয়াচ মত)। "এক্সপ্যান্ডেবল" এ, কাস্টমাইজড রিসাইক্লার ভিউ (অর্থাত প্রসারিতযোগ্য রিসাইকেল ভিউ) তালিকা আইটেমগুলিকে সম্প্রসারণ ও সংকুচিত করার জন্য ব্যবহৃত হয়। আপনি উৎস কোডটিও দেখতে পারেন</string>
     <string name="app_playstore_short">RecyclerView এবং এক্সপোজযোগ্য Recycler ভিউ UI আপডেটের জন্য ডেমো অ্যাপ্লিকেশন</string>
+    <string name="app_playstore_title">এক্সক্লুসিভ রিসাইক্লার ভিউ ডেমো</string>
     <string name="basic_tab_text">বেসিক</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Google Play পরিষেবাগুলির সাথে <ns1:g id="APP_NAME">%1$s</ns1:g> এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷"</string>
     <string name="description_content_text">Lorem Ipsum শুধু মুদ্রণ এবং typesetting শিল্পের ডামি টেক্সট। আনোয়ার প্রজেক্ট 1500 এর পর থেকে শিল্পমন্ত্রীর ডামি টেক্সট হয়ে উঠেছে, যখন একটি অজানা মুদ্রণযন্ত্র টাইপের একটি গলি নেয় এবং এটি একটি টাইপ নমুনা বই তৈরি করতে scrambled। এটা শুধুমাত্র পাঁচ শতাব্দী ধরেই বেঁচে গেছে, কিন্তু ইলেকট্রনিক টাইপসেটিংয়ের মধ্যেও লাফানো, মূলত অপরিবর্তিত রয়েছে। এটি লরমেম ইপ্সাম প্যাসেজগুলির সাথে লেটাসেট পত্রকের মুক্তির সাথে 1960 সালে জনপ্রিয়তা লাভ করে এবং সম্প্রতি ডেস্কটপ পাবলিশিং সফটওয়্যারের মত অ্যালডাস প্যাটারমেকার যেমন লরমেম ইপসামের সংস্করণ সহ।</string>
     <string name="description_text">Imt</string>
     <string name="drawer_header_text">ইন্টারেক্টিভ</string>
@@ -30,7 +30,14 @@
     <string name="nav_item_autosilent">অটো সাইলেন্ট</string>
     <string name="nav_item_help">সাহায্য করুন</string>
     <string name="nav_item_speedsilent">গতি সাইলেন্ট</string>
-    <string msgid="146198913615257606" name="search_menu_title">"অনুসন্ধান করুন"</string>
+    <string msgid="368094699078615544" name="s1">"ছবি সেভ করুন"</string>
+    <string msgid="4550830452390689489" name="s2">"বিজ্ঞাপনকে ছবির গ্যালারিতে ছবি সংরক্ষণ করার অনুমতি দেবেন?"</string>
+    <string msgid="2435407834265420668" name="s3">"গ্রহণ করুন"</string>
+    <string msgid="9167523597401839819" name="s4">"প্রত্যাখ্যান করুন"</string>
+    <string msgid="1566682516266724847" name="s5">"ক্যালেন্ডার ইভেন্ট তৈরি করুন"</string>
+    <string msgid="5996672174517137271" name="s6">"বিজ্ঞাপনকে একটি ক্যালেন্ডার ইভেন্ট তৈরি করার অনুমতি দেবেন?"</string>
+    <string msgid="7163549807207034258" name="s7">"পরীক্ষামূলক বিজ্ঞাপন"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"খুঁজুন"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
     <string name="sub_title_text">উপ শিরোনাম</string>
     <string name="time_text">02: 35: 56</string>

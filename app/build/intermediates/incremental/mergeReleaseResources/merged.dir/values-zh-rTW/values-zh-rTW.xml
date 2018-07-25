@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
@@ -17,12 +15,14 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
     <string name="app_name">可擴展的RecyclerView演示</string>
     <string name="app_playstore_long">可擴展的RecyclerView演示應用程序包含兩個片段“BASIC”和“EXPANDABLE”。顧名思義，在“BASIC”中，Normal RecyclerView用於顯示簡單的可垂直滾動的List Items，如屏幕所示，定時器每秒都會減少（如秒錶）。在“EXPANDABLE”中，用於展開和折疊列表項目的自定義RecyclerView（即ExpandableRecyclerView）。您也可以查看源代碼</string>
     <string name="app_playstore_short">RecyclerView和Expandable RecyclerView UI更新的演示應用程序</string>
+    <string name="app_playstore_title">可擴展的RecyclerView演示</string>
     <string name="basic_tab_text">BASIC</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」無法存取 Google Play 服務，請再試一次。"</string>
     <string name="description_content_text">Lorem Ipsum只是印刷和排版行業的虛擬文本。 Lorem Ipsum自從16世紀以來一直是業界標準的虛擬文本，當時一台未知的打印機採用了一種類型的廚房，並將其製作成樣本書。它不僅存活了五個世紀，而且還實現了電子排版的飛躍，基本保持不變。它在20世紀60年代隨著包含Lorem Ipsum段落的Letraset工作表的發布以及最近使用包括版本的Lorem Ipsum在內的Aldus PageMaker等桌面出版軟件而得到了推廣。</string>
     <string name="description_text">IMT</string>
     <string name="drawer_header_text">互動</string>
@@ -30,6 +30,13 @@
     <string name="nav_item_autosilent">自動靜音</string>
     <string name="nav_item_help">幫幫我</string>
     <string name="nav_item_speedsilent">速度無聲</string>
+    <string msgid="368094699078615544" name="s1">"儲存圖片"</string>
+    <string msgid="4550830452390689489" name="s2">"要允許廣告將圖片儲存在相片庫中嗎？"</string>
+    <string msgid="2435407834265420668" name="s3">"接受"</string>
+    <string msgid="9167523597401839819" name="s4">"拒絕"</string>
+    <string msgid="1566682516266724847" name="s5">"建立日曆活動"</string>
+    <string msgid="5996672174517137271" name="s6">"要允許廣告建立日曆活動嗎？"</string>
+    <string msgid="7163549807207034258" name="s7">"測試廣告"</string>
     <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">小標題</string>

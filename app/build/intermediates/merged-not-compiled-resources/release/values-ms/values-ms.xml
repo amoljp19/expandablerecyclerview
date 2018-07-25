@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi skrin utama"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi ke atas"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lagi pilihan"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
@@ -17,12 +15,13 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Serah pertanyaan"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Carian suara"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kongsi dengan"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Kongsi dengan %s"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Runtuhkan"</string>
     <string name="app_name">Demo RecyclerView yang boleh dipertingkatkan</string>
     <string name="app_playstore_long">Aplikasi Demo RecyclerView yang diperluaskan mengandungi dua skrin serpihan "BASIC" dan "EXPANDABLE". Sebagai nama mencadangkan Dalam "BASIC", Normal RecyclerView digunakan untuk memperlihatkan Baris List yang mudah ditukar secara menegak, Seperti yang ditunjukkan dalam pemasa skrin akan dikurangkan setiap saat (Seperti berhenti menonton). Dalam "EXPANDABLE", disesuaikan RecyclerView (iaitu ExpandableRecyclerView) yang digunakan untuk memperluaskan dan menggulingkan item senarai. Anda juga boleh melihat kod sumber</string>
     <string name="app_playstore_short">Aplikasi Demo untuk kemas kini UI RecyclerView dan Dikemaskini RecyclerView UI</string>
     <string name="basic_tab_text">DASAR</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi."</string>
     <string name="description_content_text">Lorem Ipsum hanya teks dummy dari industri pencetakan dan penataan. Lorem Ipsum telah menjadi teks dummy standard industri sejak tahun 1500-an, ketika pencetak yang tidak diketahui mengambil jenis jenis galley dan menggelegak untuk membuat buku spesimen jenis. Ia telah bertahan tidak hanya lima abad, tetapi juga melompat ke dalam bentuk huruf elektronik, selagi tidak berubah. Ia dipopulerkan pada tahun 1960-an dengan pembebasan lembaran Letraset yang mengandungi bahagian Lorem Ipsum, dan lebih baru-baru ini dengan perisian penerbitan desktop seperti Aldus PageMaker termasuk versi Lorem Ipsum.</string>
     <string name="description_text">imt</string>
     <string name="drawer_header_text">Interaktif</string>
@@ -30,6 +29,13 @@
     <string name="nav_item_autosilent">Auto Senyap</string>
     <string name="nav_item_help">Bantuan</string>
     <string name="nav_item_speedsilent">Kelajuan Senyap</string>
+    <string msgid="368094699078615544" name="s1">"Simpan imej"</string>
+    <string msgid="4550830452390689489" name="s2">"Benarkan Iklan menyimpan imej dalam galeri Gambar?"</string>
+    <string msgid="2435407834265420668" name="s3">"Terima"</string>
+    <string msgid="9167523597401839819" name="s4">"Tolak"</string>
+    <string msgid="1566682516266724847" name="s5">"Buat acara kalendar"</string>
+    <string msgid="5996672174517137271" name="s6">"Benarkan Iklan membuat acara kalendar?"</string>
+    <string msgid="7163549807207034258" name="s7">"Iklan Ujian"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Cari"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">Sub Tajuk</string>

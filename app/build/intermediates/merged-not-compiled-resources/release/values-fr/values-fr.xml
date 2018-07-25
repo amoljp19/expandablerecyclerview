@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
@@ -17,12 +15,13 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
     <string name="app_name">Démonstration RecyclerView extensible</string>
     <string name="app_playstore_long">Application démo RecyclerView extensible contient deux fragments écran "BASIC" et "EXPANDABLE". Comme son nom l'indique Dans "BASIC", Normal RecyclerView est utilisé pour afficher des éléments de liste simples à défilement vertical, comme indiqué dans les écrans, le minuteur est réduit toutes les secondes (comme le chronomètre). Dans "EXPANDABLE", RecyclerView (ExpandableRecyclerView) personnalisé permet d'agrandir et de réduire les éléments de la liste. Vous pouvez voir le code source aussi</string>
     <string name="app_playstore_short">Application de démonstration pour RecyclerView et mise à jour de l'interface utilisateur RecyclerView extensible</string>
     <string name="basic_tab_text">DE BASE</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
     <string name="description_content_text">Lorem Ipsum est simplement un faux texte de l'industrie de l'impression et de la composition. Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500, quand une imprimante inconnue a pris une galère de type et l'a brouillée pour faire un livre spécimen de type. Il a survécu non seulement cinq siècles, mais aussi le saut dans la composition électronique, demeurant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles de Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker, y compris des versions de Lorem Ipsum.</string>
     <string name="description_text">imt</string>
     <string name="drawer_header_text">Interactif</string>
@@ -30,6 +29,13 @@
     <string name="nav_item_autosilent">Auto Silent</string>
     <string name="nav_item_help">Aidez-moi</string>
     <string name="nav_item_speedsilent">Vitesse silencieuse</string>
+    <string msgid="368094699078615544" name="s1">"Enregistrer l\'image"</string>
+    <string msgid="4550830452390689489" name="s2">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepter"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuser"</string>
+    <string msgid="1566682516266724847" name="s5">"Créer un événement d\'agenda"</string>
+    <string msgid="5996672174517137271" name="s6">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annonce test"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
     <string name="sub_title_text">Sous-titre</string>

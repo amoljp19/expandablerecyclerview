@@ -13,6 +13,7 @@
 	<string name="basic_tab_text">OSNOVNI, TEMELJNI</string>
 	<string name="expandable_tab_text">rastezljiv</string>
 	<string name="description_content_text">Lorem Ipsum jednostavno je lažan tekst industrije tiskanja i slaganja. Lorem Ipsum je industrijski standardni glagolski tekst još od 1500-ih godina, kada je nepoznati pisač uzeo galiju tipa i nagrizao je kako bi napravio vrstu primjerke knjige. Ono je preživjelo ne samo pet stoljeća, već i skok u elektronskom slaganju, a ostalo je uglavnom nepromijenjeno. To je bio populariziran u 1960-ih s izdavanjem Letraset listova koji sadrže Lorem Ipsum prolaza, a nedavno s desktop izdavaštvo softver poput Aldus PageMaker uključujući i verzije Lorem Ipsum.</string>
+	<string name="app_playstore_title">Proširivi RecyclerView Demo</string>
 	<string name="app_playstore_short">Aplikacija Demo za RecyclerView i proširenje RecyclerView korisničkog sučelja ažuriranja</string>
 	<string name="app_playstore_long">Proširivi RecyclerView Demo app sadrži dva fragmenta zaslona &quot;BASIC&quot; i &quot;EXPANDABLE&quot;. Kao što ime sugerira U &quot;BASIC&quot;, Normal RecyclerView koristi se za prikazivanje jednostavnih vertikalnih popisa stavki, kao što je prikazano na ekranu zaslona, ​​svaka sekunda će se smanjiti (poput stop watcha). U &quot;EXPANDABLE&quot;, prilagođeni RecyclerView (tj. ExpandableRecyclerView) koristi se za širenje i urušavanje stavki popisa. Također možete vidjeti izvorni kod</string>
 

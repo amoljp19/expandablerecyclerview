@@ -13,6 +13,7 @@
 	<string name="basic_tab_text">BASIC</string>
 	<string name="expandable_tab_text">Expandable</string>
 	<string name="description_content_text">Lorem Ipsum është thjesht një tekst dummy i industrisë së printimit dhe shkrimit. Lorem Ipsum ka qenë teksti standard i standardeve të industrisë që nga viti 1500, kur një printer i panjohur mori një lloj kuzhinie dhe e fërgoi atë për të bërë një libër ekzemplar të tipit. Ajo ka mbijetuar jo vetëm pesë shekuj, por edhe kërcim në listat elektronike, duke mbetur në thelb të pandryshuara. Ajo u popullarizua në vitet 1960 me lirimin e fletëve të Letraset që përmbajnë pasazhe Lorem Ipsum, dhe kohët e fundit me softuer të botimit në desktop si Aldus PageMaker duke përfshirë versionet e Lorem Ipsum.</string>
+	<string name="app_playstore_title">Demo e zgjeruar e RecyclerView</string>
 	<string name="app_playstore_short">Aplikimi i Demo për përditësimin e reklamës RecyclerView dhe për reklamën Expandable RecyclerView</string>
 	<string name="app_playstore_long">Aplikacioni Expandable RecyclerView Demo përmban dy fragmente të ekranit &quot;BASIC&quot; dhe &quot;EXPANDABLE&quot;. Siç sugjeron emri Në &quot;BASIC&quot;, Normal RecyclerView përdoret për të treguar elemente të thjeshtë të listës vertikalisht të zhvendosura, Siç tregohet në ekranet, kohëmatësi do të reduktohet çdo sekondë. Në &quot;EXPANDABLE&quot;, RecyclerView (dmth ExpandableRecyclerView) i përshtatur për zgjerimin dhe shembjen e artikujve të listës. Ju gjithashtu mund të shihni kodin burimor gjithashtu</string>
 

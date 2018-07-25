@@ -13,6 +13,7 @@
 	<string name="basic_tab_text">BASIC</string>
 	<string name="expandable_tab_text">可膨脹</string>
 	<string name="description_content_text">Lorem Ipsum只是印刷和排版行業的虛擬文本。 Lorem Ipsum自從16世紀以來一直是業界標準的虛擬文本，當時一台未知的打印機採用了一種類型的廚房，並將其製作成樣本書。它不僅存活了五個世紀，而且還實現了電子排版的飛躍，基本保持不變。它在20世紀60年代隨著包含Lorem Ipsum段落的Letraset工作表的發布以及最近使用包括版本的Lorem Ipsum在內的Aldus PageMaker等桌面出版軟件而得到了推廣。</string>
+	<string name="app_playstore_title">可擴展的RecyclerView演示</string>
 	<string name="app_playstore_short">RecyclerView和Expandable RecyclerView UI更新的演示應用程序</string>
 	<string name="app_playstore_long">可擴展的RecyclerView演示應用程序包含兩個片段“BASIC”和“EXPANDABLE”。顧名思義，在“BASIC”中，Normal RecyclerView用於顯示簡單的可垂直滾動的List Items，如屏幕所示，定時器每秒都會減少（如秒錶）。在“EXPANDABLE”中，用於展開和折疊列表項目的自定義RecyclerView（即ExpandableRecyclerView）。您也可以查看源代碼</string>
 

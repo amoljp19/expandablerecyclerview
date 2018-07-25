@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
@@ -17,12 +15,13 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
     <string name="app_name">Rozszerzona wersja RecyclerView</string>
     <string name="app_playstore_long">Rozszerzona aplikacja RecyclerView Demo zawiera dwa fragmenty ekranu "BASIC" i "EXPANDABLE". Jak sugeruje nazwa W "BASIC", Normal RecyclerView używany do wyświetlania prostych przedmiotów przewijanych w pionie, jak pokazano na ekranach, zegar będzie się zmniejszał co sekundę (np. Stoper). W "EXPANDABLE", dostosowany RecyclerView (tj. ExpandableRecyclerView) używany do rozwijania i zwijania elementów listy. Możesz również wyświetlić kod źródłowy</string>
     <string name="app_playstore_short">Aplikacja demonstracyjna dla aktualizacji interfejsu RecyclerView i Expandable RecyclerView</string>
     <string name="basic_tab_text">PODSTAWOWY</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz."</string>
     <string name="description_content_text">Lorem Ipsum to po prostu fikcyjny tekst branży drukarskiej i składu. Lorem Ipsum jest standardowym tekstem fikcyjnym w branży od XVI wieku, kiedy to nieznana drukarka wziąła galerię typu i zaszyfrowała ją, by zrobić przykładową książkę. Przetrwał nie tylko pięć wieków, ale także skok do elektronicznego składu, pozostając zasadniczo niezmieniony. Został spopularyzowany w latach 60. wraz z wydaniem albumów Letraset zawierających fragmenty Lorem Ipsum, a ostatnio z oprogramowaniem do publikowania desktopów, takim jak Aldus PageMaker, w tym wersje Lorem Ipsum.</string>
     <string name="description_text">imt</string>
     <string name="drawer_header_text">Interaktywny</string>
@@ -30,6 +29,13 @@
     <string name="nav_item_autosilent">Auto Silent</string>
     <string name="nav_item_help">Wsparcie</string>
     <string name="nav_item_speedsilent">Speed ​​Silent</string>
+    <string msgid="368094699078615544" name="s1">"Zapisz obraz"</string>
+    <string msgid="4550830452390689489" name="s2">"Zezwolić reklamie na zapisanie obrazu w galerii zdjęć?"</string>
+    <string msgid="2435407834265420668" name="s3">"Zaakceptuj"</string>
+    <string msgid="9167523597401839819" name="s4">"Odrzuć"</string>
+    <string msgid="1566682516266724847" name="s5">"Utwórz wydarzenie w kalendarzu"</string>
+    <string msgid="5996672174517137271" name="s6">"Zezwolić reklamie na utworzenie wydarzenia w kalendarzu?"</string>
+    <string msgid="7163549807207034258" name="s7">"Reklama testowa"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">Tytuł dodatkowy</string>

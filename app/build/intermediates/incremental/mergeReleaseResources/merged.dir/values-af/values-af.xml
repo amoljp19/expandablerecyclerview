@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeer tuis"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigeer op"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Nog opsies"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Klaar"</string>
@@ -17,12 +15,14 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Dien navraag in"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Stemsoektog"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deel met"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deel met %s"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Deel met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Vou in"</string>
     <string name="app_name">Uitbreidbare RecyclerView Demo</string>
     <string name="app_playstore_long">Uitgebreide RecyclerView Demo app bevat twee fragmente skerm "BASIC" en "EXPANDABLE". Soos die naam aandui In "BASIESE", het Normal RecyclerView gebruik om eenvoudige vertikaal scrollbare lysitems te wys. Soos in skerms gewys, sal die timer elke sekonde verminder word (soos stophorlosie). In "EXPANDABLE", gebruik RecyclerView (bv. ExpandableRecyclerView) wat gebruik word om lysitems uit te brei en in duie te stort. U kan ook die bronkode sien</string>
     <string name="app_playstore_short">Demo app vir RecyclerView en Expandable RecyclerView UI update</string>
+    <string name="app_playstore_title">Uitbreidbare RecyclerView Demo</string>
     <string name="basic_tab_text">BASIC</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervind probleme met Google Play Dienste. Probeer asseblief weer."</string>
     <string name="description_content_text">Lorem Ipsum is eenvoudig dummy teks van die drukkery en tikbedryf. Lorem Ipsum is sedert die 1500's die bedryf se standaard-dummy-teks, sedert 'n onbekende drukker 'n galery van soort gehad het en dit geskroef het om 'n soort monsterboek te maak. Dit het nie net vyf eeue oorleef nie, maar ook die sprong in elektroniese tipesetting, wat feitlik onveranderd bly. Dit is in die 1960's gewild gemaak met die vrylating van Letraset-lakens wat Lorem Ipsum-gedeeltes bevat, en meer onlangs met desktopuitgewersagteware soos Aldus PageMaker, insluitend weergawes van Lorem Ipsum.</string>
     <string name="description_text">IMT</string>
     <string name="drawer_header_text">interaktiewe</string>
@@ -30,6 +30,13 @@
     <string name="nav_item_autosilent">Outomaties Silent</string>
     <string name="nav_item_help">help</string>
     <string name="nav_item_speedsilent">Spoed Silent</string>
+    <string msgid="368094699078615544" name="s1">"Stoor prent"</string>
+    <string msgid="4550830452390689489" name="s2">"Laat advertensie toe om prent in Prentgalery te stoor?"</string>
+    <string msgid="2435407834265420668" name="s3">"Aanvaar"</string>
+    <string msgid="9167523597401839819" name="s4">"Wys af"</string>
+    <string msgid="1566682516266724847" name="s5">"Skep kalendergeleentheid"</string>
+    <string msgid="5996672174517137271" name="s6">"Laat advertensie toe om \'n kalendergeleentheid te skep?"</string>
+    <string msgid="7163549807207034258" name="s7">"Toetsadvertensie"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Soek"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">Sub Titel</string>

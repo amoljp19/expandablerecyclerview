@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
@@ -17,12 +15,14 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Comparteix amb %s"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Replega"</string>
     <string name="app_name">Demostració expandible de RecyclerView</string>
     <string name="app_playstore_long">L'aplicació Demo RecyclerView expandible conté dos fragments de pantalla "BASIC" i "EXPANDABLE". Com el seu nom indica En "BASIC", Normal RecyclerView s'utilitza per mostrar elements de llista simples que es poden desplaçar verticalment, com es mostra al temporitzador de pantalles, es reduirà cada segon (Igual que el rellotge de parada). A "EXPANDABLE", RecyclerView personalitzat (és a dir, ExpandableRecyclerView) s'utilitza per expandir i col·lapsar elements de la llista. També podeu veure el codi font</string>
     <string name="app_playstore_short">Aplicació de demostració per actualitzar la RecyclerView i Expandable RecyclerView UI</string>
+    <string name="app_playstore_title">Demostració expandible de RecyclerView</string>
     <string name="basic_tab_text">BÀSIC</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> té problemes amb Serveis de Google Play. Torna-ho a provar."</string>
     <string name="description_content_text">Lorem Ipsum és un text simulat de la indústria d'impressió i tipografia. Lorem Ipsum ha estat el text fictici estàndard de la indústria des de la dècada de 1500, quan una impressora desconeguda va prendre una galera de tipus i la va canviar per fer un llibre de mostra tipus. Ha sobreviscut no només cinc segles, sinó també el salt a la tipografia electrònica, essent essencialment inalterable. Es va popularitzar als anys 60 amb l'alliberament de fulls de Letraset que contenien passatges de Lorem Ipsum i, més recentment, amb programari d'edició d'ordinadors com Aldus PageMaker, incloent versions de Lorem Ipsum.</string>
     <string name="description_text">imt</string>
     <string name="drawer_header_text">Interactiu</string>
@@ -30,6 +30,13 @@
     <string name="nav_item_autosilent">Silenci automàtic</string>
     <string name="nav_item_help">Ajuda</string>
     <string name="nav_item_speedsilent">Velocitat silenciosa</string>
+    <string msgid="368094699078615544" name="s1">"Desa la imatge"</string>
+    <string msgid="4550830452390689489" name="s2">"Vols permetre que l\'anunci desi imatges a la galeria d\'imatges?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepta"</string>
+    <string msgid="9167523597401839819" name="s4">"Rebutja"</string>
+    <string msgid="1566682516266724847" name="s5">"Crea un esdeveniment de calendari"</string>
+    <string msgid="5996672174517137271" name="s6">"Vols permetre que l\'anunci creï un esdeveniment de calendari?"</string>
+    <string msgid="7163549807207034258" name="s7">"Anunci de prova"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Cerca"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
     <string name="sub_title_text">Títol secundari</string>

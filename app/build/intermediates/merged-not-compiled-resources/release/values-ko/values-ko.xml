@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
@@ -17,12 +15,13 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>와(과) 공유"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
     <string name="app_name">확장 가능한 RecyclerView 데모</string>
     <string name="app_playstore_long">Expandable RecyclerView 데모 앱에는 두 개의 조각 화면 "BASIC"과 "EXPANDABLE"이 있습니다. 이름에서 알 수 있듯이 "BASIC"에서는 RecyclerView를 사용하여 간단한 수직 스크롤 목록 항목을 표시하는 데 사용되었습니다. 화면에 표시된 것처럼 타이머는 초 단위로 감소합니다 (중지 시계와 유사). "EXPANDABLE"에서 목록 항목을 확장하거나 축소하는 데 사용되는 사용자 정의 RecyclerView (즉, ExpandableRecyclerView). 소스 코드도 볼 수 있습니다.</string>
     <string name="app_playstore_short">RecyclerView 및 확장 가능한 RecyclerView UI 업데이트 데모 앱</string>
     <string name="basic_tab_text">기본</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요."</string>
     <string name="description_content_text">Lorem Ipsum은 단순히 인쇄 및 조판 업계의 거짓 텍스트입니다. Lorem Ipsum은 알 수없는 프린터가 유형의 조리실을 가져 와서 형식 견본 책을 만들기 위해 뒤섞어 놓았던 1500 년대 이래로 업계의 표준 더미 텍스트였습니다. 5 세기뿐만 아니라 전자 조판으로 도약했으며, 본질적으로 변하지 않았습니다. 1960 년대에 Lorem Ipsum 구절이 포함 된 Letraset 시트가 출시되었고, 최근에는 Lorem Ipsum 버전을 비롯하여 Aldus PageMaker와 같은 데스크톱 게시 소프트웨어가 대중화되었습니다.</string>
     <string name="description_text">imt</string>
     <string name="drawer_header_text">대화식</string>
@@ -30,6 +29,13 @@
     <string name="nav_item_autosilent">자동 사일런트</string>
     <string name="nav_item_help">도움</string>
     <string name="nav_item_speedsilent">조용한 속도</string>
+    <string msgid="368094699078615544" name="s1">"이미지 저장"</string>
+    <string msgid="4550830452390689489" name="s2">"광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?"</string>
+    <string msgid="2435407834265420668" name="s3">"동의"</string>
+    <string msgid="9167523597401839819" name="s4">"거부"</string>
+    <string msgid="1566682516266724847" name="s5">"캘린더 일정 만들기"</string>
+    <string msgid="5996672174517137271" name="s6">"광고에서 캘린더 일정을 만들도록 허용하시겠습니까?"</string>
+    <string msgid="7163549807207034258" name="s7">"테스트 광고"</string>
     <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">부제목</string>

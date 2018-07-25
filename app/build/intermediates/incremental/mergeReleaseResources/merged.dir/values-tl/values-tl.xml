@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Mag-navigate patungo sa home"</string>
-    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
-    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Higit pang mga opsyon"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Tapos na"</string>
@@ -17,12 +15,13 @@
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Isumite ang query"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Ibahagi sa/kay %s"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Ibahagi gamit ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"I-collapse"</string>
     <string name="app_name">Napapalawak na RecyclerView Demo</string>
     <string name="app_playstore_long">Ang napapalawak na RecyclerView Demo app ay naglalaman ng dalawang mga fragment na screen na "BATAYANG" at "NAGBABAGO". Bilang nagmumungkahi ang pangalan Sa "BATAYANG", ang Karaniwang RecyclerView ay ginagamit upang ipakita ang mga simpleng mga item na Listahan ng Mga Listahan ng Pag-scroll, Tulad ng ipinapakita sa screen na timer ay mababawasan bawat segundo (Tulad ng stop watch). Sa "EXPANDABLE", na-customize na RecyclerView (ie ExpandableRecyclerView) na ginamit upang palawakin at pag-collapse ng mga item sa listahan. Maaari mo ring tingnan ang source code</string>
     <string name="app_playstore_short">Demo app para sa pag-update ng RecyclerView at Napapalawak na RecyclerView UI</string>
     <string name="basic_tab_text">BATAYANG</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Nagkakaproblema ang <ns1:g id="APP_NAME">%1$s</ns1:g> sa mga serbisyo ng Google Play. Pakisubukang muli."</string>
     <string name="description_content_text">Ang Lorem Ipsum ay simpleng teksto ng industriya ng pag-print at pag-type. Si Lorem Ipsum ay isang standard na dummy text sa industriya mula noong 1500s, nang kumuha ng isang hindi kilalang printer ang isang uri ng bangkang de kusina at pinirituhan ito upang makagawa ng isang uri ng aklat ng ispesimen. Nakaligtas ito hindi lamang limang siglo, kundi pati na rin ang paglukso sa mga electronic na pampalimbagan, natitirang mahalagang hindi nabago. Ipinakalat ito noong dekada 1960 sa pagpapalabas ng Letraset sheet na naglalaman ng mga sipi ng Lorem Ipsum, at mas kamakailan sa desktop publishing software tulad ng Aldus PageMaker kabilang ang mga bersyon ng Lorem Ipsum.</string>
     <string name="description_text">imt</string>
     <string name="drawer_header_text">Interactive</string>
@@ -30,6 +29,13 @@
     <string name="nav_item_autosilent">Auto Silent</string>
     <string name="nav_item_help">Tulong</string>
     <string name="nav_item_speedsilent">Pabilisin ang Tahimik</string>
+    <string msgid="368094699078615544" name="s1">"I-save ang larawan"</string>
+    <string msgid="4550830452390689489" name="s2">"Pahintulutan ang Ad na iimbak ang larawan sa Gallery ng larawan?"</string>
+    <string msgid="2435407834265420668" name="s3">"Tanggapin"</string>
+    <string msgid="9167523597401839819" name="s4">"Tanggihan"</string>
+    <string msgid="1566682516266724847" name="s5">"Gumawa ng event sa kalendaryo"</string>
+    <string msgid="5996672174517137271" name="s6">"Pahintulutan ang Ad na gumawa ng event sa kalendaryo?"</string>
+    <string msgid="7163549807207034258" name="s7">"Pansubok na Ad"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Maghanap"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">Sub Pamagat</string>

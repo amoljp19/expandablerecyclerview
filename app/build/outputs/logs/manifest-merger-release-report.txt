@@ -1,138 +1,245 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6747d06125811a397d91c3223fd1aae5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\230a537ff5ecef8f95d4633761105350\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ebfd1a6e7c24c87ea199daf7bc827c11\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eef7ddb87f9290bee2250239c15a05e2\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\88bcb86ae58e311309541f04ab111da6\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c76d7ebeebf8d8d049411c2770a23ab\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8cbb29642f196914087beb9b727743ff\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8ab7bddfbff9adcb2dc05a67c32c375\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1bdf219008b2ebe9f9772df33ce26723\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2d97a5b8a53251672a211c93302ba28a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f82b0860f38d69402a1789112e6f376f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d3bbd166f192ecd7481fe4f3150a7dfd\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-27.1.1.aar\f6bf9068c193f8a00ad418e9877cb3a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\94177cd5120b123853ba4f1ba4268306\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\bb78bd2b60c37005cdeaa865076c5f1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4afcbe3596958a94723d874765069e8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9eff202c772ba7c3eb94c398e45bb56b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a5f92dc3944494dc7901907a084d049b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.adcolony:sdk:3.3.4] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\sdk-3.3.4.aar\d1620a8c274d82d6ece9e5e9d86b3075\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\2297d32fb88152beb46e6d3edfcf2790\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\d260856e3b3b81ad04850740bc923cd4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\25309c7d22953f352ba6a58ca34d197c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\47d17f77a3c25491f9e892945a1c552d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\06cdb3f67b1a12000cc23081f050c770\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ef06ca5ba9d74e305c33e80d867c098d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2e9c16edee52ed49598e5e971f013c71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\02cf2d2aac545cab73b2f7523d182b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\72a7007dd386a5b8fdde6681000bb8f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2459034f1fb28a7e8288228fa5c22b3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\21ee77e27f36a261efe27d5edd656a23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ads.mediation:adcolony:3.3.4.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\adcolony-3.3.4.0.aar\b9a527f2a363038836cbed853ef6062f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.ads.mediation:applovin:7.8.6.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\applovin-7.8.6.0.aar\2c5d7a04e5af6cbbd5ca8c491daaead3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.ads.mediation:inmobi:7.0.2.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\inmobi-7.0.2.0.aar\24f3fd3f5902fa3915bc16d563b81e97\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.ads.mediation:mytarget:5.1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-5.1.0.0.aar\d32808d25064eb072759be46c431ebf5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\a20f827c612a478b0b240c3c44ded5aa\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\10a1a78de10a2af4d61cb8c7cdd8948b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\10836b6ea5c35b000e1d0b79941a874f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f695975683dc05cffeb6a00accdf842b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb41b31926f681fbb892350c6e44ac34\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
 	package
 		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:4:5-51
 	android:versionCode
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:1-76:12
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:6:2-63
+MERGED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:10:5-67
+MERGED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:6:19-61
 application
-ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:7:5-23:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6747d06125811a397d91c3223fd1aae5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6747d06125811a397d91c3223fd1aae5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\230a537ff5ecef8f95d4633761105350\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\230a537ff5ecef8f95d4633761105350\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ebfd1a6e7c24c87ea199daf7bc827c11\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ebfd1a6e7c24c87ea199daf7bc827c11\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eef7ddb87f9290bee2250239c15a05e2\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eef7ddb87f9290bee2250239c15a05e2\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\88bcb86ae58e311309541f04ab111da6\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\88bcb86ae58e311309541f04ab111da6\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c76d7ebeebf8d8d049411c2770a23ab\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c76d7ebeebf8d8d049411c2770a23ab\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8cbb29642f196914087beb9b727743ff\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8cbb29642f196914087beb9b727743ff\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8ab7bddfbff9adcb2dc05a67c32c375\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8ab7bddfbff9adcb2dc05a67c32c375\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1bdf219008b2ebe9f9772df33ce26723\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1bdf219008b2ebe9f9772df33ce26723\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2d97a5b8a53251672a211c93302ba28a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2d97a5b8a53251672a211c93302ba28a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f82b0860f38d69402a1789112e6f376f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f82b0860f38d69402a1789112e6f376f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d3bbd166f192ecd7481fe4f3150a7dfd\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d3bbd166f192ecd7481fe4f3150a7dfd\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:24:5-28:19
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:7:5-74:19
+MERGED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:13:5-19:19
+MERGED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\2297d32fb88152beb46e6d3edfcf2790\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\2297d32fb88152beb46e6d3edfcf2790\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\d260856e3b3b81ad04850740bc923cd4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\d260856e3b3b81ad04850740bc923cd4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\a20f827c612a478b0b240c3c44ded5aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\a20f827c612a478b0b240c3c44ded5aa\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:11:9-41
 	android:resizeableActivity
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:12:3-38
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:13:3-38
 	android:icon
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:9:9-45
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:10:9-45
 	android:allowBackup
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:11:9-42
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:12:9-42
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:8:9-68
 activity#com.softaai.expandablerecyclerviewdemo.MainActivity
-ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:14:9-22:20
 	android:label
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:15:13-45
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:16:13-45
 	android:name
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:14:13-41
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.adcolony.sdk.AdColonyInterstitialActivity
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:26:9-28:49
+	android:hardwareAccelerated
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:28:13-47
+	android:configChanges
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:27:13-74
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:26:19-79
+activity#com.adcolony.sdk.AdColonyAdViewActivity
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:30:9-32:49
+	android:hardwareAccelerated
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:32:13-47
+	android:configChanges
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:31:13-74
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:30:19-73
+activity#com.applovin.adview.AppLovinInterstitialActivity
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:39:9-40:61
+	android:configChanges
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:40:13-59
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:39:19-82
+activity#com.applovin.adview.AppLovinConfirmationActivity
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:42:9-43:61
+	android:configChanges
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:43:13-59
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:42:19-82
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:50:9-56:46
+	android:hardwareAccelerated
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:53:13-47
+	android:resizeableActivity
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:54:13-47
+	tools:ignore
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:56:13-43
+	android:configChanges
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:52:13-115
+	android:theme
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:55:13-60
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:51:13-65
+receiver#com.inmobi.commons.core.utilities.uid.ImIdShareBroadCastReceiver
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:58:9-66:20
+	android:enabled
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:60:13-35
+	android:exported
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:61:13-36
+	tools:ignore
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:59:13-92
+intent-filter#action:name:com.inmobi.share.id
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:63:13-65:29
+action#com.inmobi.share.id
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:64:17-61
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:64:25-59
+meta-data#applovin.sdk.key
+ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:71:9-72:118
+	android:value
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:72:13-115
+	android:name
+		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml:71:20-51
 uses-sdk
 INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6747d06125811a397d91c3223fd1aae5\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6747d06125811a397d91c3223fd1aae5\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\230a537ff5ecef8f95d4633761105350\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\230a537ff5ecef8f95d4633761105350\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ebfd1a6e7c24c87ea199daf7bc827c11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ebfd1a6e7c24c87ea199daf7bc827c11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eef7ddb87f9290bee2250239c15a05e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eef7ddb87f9290bee2250239c15a05e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\88bcb86ae58e311309541f04ab111da6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\88bcb86ae58e311309541f04ab111da6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c76d7ebeebf8d8d049411c2770a23ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c76d7ebeebf8d8d049411c2770a23ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8cbb29642f196914087beb9b727743ff\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8cbb29642f196914087beb9b727743ff\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8ab7bddfbff9adcb2dc05a67c32c375\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8ab7bddfbff9adcb2dc05a67c32c375\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1bdf219008b2ebe9f9772df33ce26723\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1bdf219008b2ebe9f9772df33ce26723\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2d97a5b8a53251672a211c93302ba28a\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2d97a5b8a53251672a211c93302ba28a\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f82b0860f38d69402a1789112e6f376f\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f82b0860f38d69402a1789112e6f376f\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d3bbd166f192ecd7481fe4f3150a7dfd\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d3bbd166f192ecd7481fe4f3150a7dfd\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-27.1.1.aar\f6bf9068c193f8a00ad418e9877cb3a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-27.1.1.aar\f6bf9068c193f8a00ad418e9877cb3a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\94177cd5120b123853ba4f1ba4268306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\94177cd5120b123853ba4f1ba4268306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\bb78bd2b60c37005cdeaa865076c5f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\bb78bd2b60c37005cdeaa865076c5f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:6:5-8:41
+MERGED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4afcbe3596958a94723d874765069e8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4afcbe3596958a94723d874765069e8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9eff202c772ba7c3eb94c398e45bb56b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9eff202c772ba7c3eb94c398e45bb56b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a5f92dc3944494dc7901907a084d049b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a5f92dc3944494dc7901907a084d049b\AndroidManifest.xml:20:5-43
+MERGED from [com.adcolony:sdk:3.3.4] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\sdk-3.3.4.aar\d1620a8c274d82d6ece9e5e9d86b3075\AndroidManifest.xml:8:5-11:939
+MERGED from [com.adcolony:sdk:3.3.4] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\sdk-3.3.4.aar\d1620a8c274d82d6ece9e5e9d86b3075\AndroidManifest.xml:8:5-11:939
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\2297d32fb88152beb46e6d3edfcf2790\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\2297d32fb88152beb46e6d3edfcf2790\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\d260856e3b3b81ad04850740bc923cd4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\d260856e3b3b81ad04850740bc923cd4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\25309c7d22953f352ba6a58ca34d197c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\25309c7d22953f352ba6a58ca34d197c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\47d17f77a3c25491f9e892945a1c552d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\47d17f77a3c25491f9e892945a1c552d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\06cdb3f67b1a12000cc23081f050c770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\06cdb3f67b1a12000cc23081f050c770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ef06ca5ba9d74e305c33e80d867c098d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ef06ca5ba9d74e305c33e80d867c098d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2e9c16edee52ed49598e5e971f013c71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2e9c16edee52ed49598e5e971f013c71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\02cf2d2aac545cab73b2f7523d182b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\02cf2d2aac545cab73b2f7523d182b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\72a7007dd386a5b8fdde6681000bb8f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\72a7007dd386a5b8fdde6681000bb8f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2459034f1fb28a7e8288228fa5c22b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2459034f1fb28a7e8288228fa5c22b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\21ee77e27f36a261efe27d5edd656a23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\21ee77e27f36a261efe27d5edd656a23\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ads.mediation:adcolony:3.3.4.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\adcolony-3.3.4.0.aar\b9a527f2a363038836cbed853ef6062f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ads.mediation:adcolony:3.3.4.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\adcolony-3.3.4.0.aar\b9a527f2a363038836cbed853ef6062f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ads.mediation:applovin:7.8.6.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\applovin-7.8.6.0.aar\2c5d7a04e5af6cbbd5ca8c491daaead3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ads.mediation:applovin:7.8.6.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\applovin-7.8.6.0.aar\2c5d7a04e5af6cbbd5ca8c491daaead3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ads.mediation:inmobi:7.0.2.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\inmobi-7.0.2.0.aar\24f3fd3f5902fa3915bc16d563b81e97\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ads.mediation:inmobi:7.0.2.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\inmobi-7.0.2.0.aar\24f3fd3f5902fa3915bc16d563b81e97\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ads.mediation:mytarget:5.1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-5.1.0.0.aar\d32808d25064eb072759be46c431ebf5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ads.mediation:mytarget:5.1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-5.1.0.0.aar\d32808d25064eb072759be46c431ebf5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\a20f827c612a478b0b240c3c44ded5aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\a20f827c612a478b0b240c3c44ded5aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\10a1a78de10a2af4d61cb8c7cdd8948b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\10a1a78de10a2af4d61cb8c7cdd8948b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\10836b6ea5c35b000e1d0b79941a874f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\10836b6ea5c35b000e1d0b79941a874f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f695975683dc05cffeb6a00accdf842b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f695975683dc05cffeb6a00accdf842b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb41b31926f681fbb892350c6e44ac34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb41b31926f681fbb892350c6e44ac34\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:23:9-59
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9eff202c772ba7c3eb94c398e45bb56b\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
@@ -141,39 +248,37 @@ INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:11:22-76
+activity#com.my.target.common.MyTargetActivity
+ADDED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:16:9-18:125
+	android:configChanges
+		ADDED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:18:13-122
+	android:name
+		ADDED from [com.my.target:mytarget-sdk:5.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\mytarget-sdk-5.1.0.aar\5f6bc4e965c77822d23956fa67cdda38\AndroidManifest.xml:17:13-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fcdc0f03a15e758bdc36496ec20fcc8f\AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cdfe3a397652affc50b3601ad7d4007d\AndroidManifest.xml:24:13-58
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6747d06125811a397d91c3223fd1aae5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6747d06125811a397d91c3223fd1aae5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\230a537ff5ecef8f95d4633761105350\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\230a537ff5ecef8f95d4633761105350\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ebfd1a6e7c24c87ea199daf7bc827c11\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ebfd1a6e7c24c87ea199daf7bc827c11\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eef7ddb87f9290bee2250239c15a05e2\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\eef7ddb87f9290bee2250239c15a05e2\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\88bcb86ae58e311309541f04ab111da6\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\88bcb86ae58e311309541f04ab111da6\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c76d7ebeebf8d8d049411c2770a23ab\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c76d7ebeebf8d8d049411c2770a23ab\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8cbb29642f196914087beb9b727743ff\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8cbb29642f196914087beb9b727743ff\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8ab7bddfbff9adcb2dc05a67c32c375\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8ab7bddfbff9adcb2dc05a67c32c375\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1bdf219008b2ebe9f9772df33ce26723\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1bdf219008b2ebe9f9772df33ce26723\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2d97a5b8a53251672a211c93302ba28a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2d97a5b8a53251672a211c93302ba28a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f82b0860f38d69402a1789112e6f376f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f82b0860f38d69402a1789112e6f376f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d3bbd166f192ecd7481fe4f3150a7dfd\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d3bbd166f192ecd7481fe4f3150a7dfd\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:23:9-25:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:25:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\design-26.1.0.aar\f8546e159978472f35d8b9345eba82bc\AndroidManifest.xml:27:13-51
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eac7a3fcf271ab653252f9768b770045\AndroidManifest.xml:26:13-58
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Amol\.gradle\wrapper\dists\gradle-4.1-all\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\228bc2622924c6e9e84aec02ecd08a4c\AndroidManifest.xml:24:13-51
