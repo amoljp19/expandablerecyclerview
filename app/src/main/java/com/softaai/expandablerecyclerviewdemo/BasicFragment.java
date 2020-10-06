@@ -1,13 +1,17 @@
 package com.softaai.expandablerecyclerviewdemo;
-import android.support.v4.app.*;
+import androidx.core.app.*;
 import android.view.*;
 import android.os.*;
-import android.support.v7.widget.*;
-import com.softaai.expandablerecyclerviewdemo.R;
+import androidx.appcompat.widget.*;
+
 import java.util.*;
 import android.graphics.drawable.*;
 import android.content.*;
 import android.graphics.*;
+
+import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.softaai.expandablerecyclerviewdemo.model.*;
 

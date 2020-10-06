@@ -8,6 +8,16 @@
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
     <string msgid="121134116657445385" name="abc_capital_off">"ВИМК."</string>
     <string msgid="3405795526292276155" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"пробіл"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
     <string msgid="7723749260725869598" name="abc_search_hint">"Пошук…"</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Очистити запит"</string>
     <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пошуковий запит"</string>
@@ -22,7 +32,7 @@
     <string name="app_playstore_short">Демо-додаток для поновлення RecyclerView та розширюваного інтерфейсу RecyclerView</string>
     <string name="basic_tab_text">BASIC</string>
     <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"У додатку <ns1:g id="APP_NAME">%1$s</ns1:g> виникла проблема із сервісами Google Play. Повторіть спробу."</string>
-    <string name="description_content_text">Lorem Ipsum - це просто фіктивний текст поліграфічної та набірної галузі. Lorem Ipsum був стандартним фіктивним текстом у галузі, починаючи з 1500-х років, коли невідомий принтер зайняв камбузовий тип і згорнув його, щоб зробити книгу зразків. Вона вижила не тільки п'ять століть, але і стрибок у електронний набір, залишаючись практично незмінним. Він був популяризований у 1960-х роках з випуском листів Letraset, що містять панорами Lorem Ipsum, і зовсім недавно з програмним забезпеченням для видавничої системи, такими як Aldus PageMaker, включаючи версії Lorem Ipsum.</string>
+    <string name="description_content_text">Lorem Ipsum - це просто фіктивний текст поліграфічної та набірної галузі. Lorem Ipsum був стандартним фіктивним текстом у галузі, починаючи з 1500-х років, коли невідомий принтер зайняв камбузовий тип і згорнув його, щоб зробити книгу зразків. Вона вижила не тільки п\'ять століть, але і стрибок у електронний набір, залишаючись практично незмінним. Він був популяризований у 1960-х роках з випуском листів Letraset, що містять панорами Lorem Ipsum, і зовсім недавно з програмним забезпеченням для видавничої системи, такими як Aldus PageMaker, включаючи версії Lorem Ipsum.</string>
     <string name="description_text">ІМТ</string>
     <string name="drawer_header_text">Інтерактивний</string>
     <string name="expandable_tab_text">РОЗШИРЮЄТЬСЯ</string>
@@ -37,7 +47,7 @@
     <string msgid="5996672174517137271" name="s6">"Дозволити оголошенню створити подію календаря?"</string>
     <string msgid="7163549807207034258" name="s7">"Тестове оголошення"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
-    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">Підзаголовок</string>
     <string name="time_text">02: 35: 56</string>
     <string name="title_text">Ріддем</string>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "D:\\softAai\\Android\\projects\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amol\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\cardview-v7-27.1.1.aar\\bb78bd2b60c37005cdeaa865076c5f1d\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-1.0.0.aar\\124becab1a8c5c00f19970bf628a3aaa\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Amol\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\94177cd5120b123853ba4f1ba4268306\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\2a378310c6eef7ef8c3f47540213138c\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

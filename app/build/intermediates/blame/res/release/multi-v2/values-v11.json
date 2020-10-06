@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "D:\\softAai\\Android\\projects\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amol\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "D:\\softAai\\Android\\projects\\AndroidStudioProjects\\expandablerecyclerviewdemocode\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6,18,24,10",
                         "startColumns": "4,4,4,1",

@@ -1,14 +1,18 @@
 package com.softaai.expandablerecyclerviewdemo;
-import android.support.v4.app.*;
+import androidx.core.app.*;
 import android.view.*;
 import android.os.*;
-import android.support.v7.widget.*;
+import androidx.appcompat.widget.*;
 import java.util.*;
 import com.softaai.expandablerecyclerviewdemo.adapter.*;
 import com.softaai.expandablerecyclerviewdemo.model.*;
 import android.graphics.drawable.*;
 import android.content.*;
 import android.graphics.*;
+
+import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 public class ExpandableFragment extends Fragment
 {

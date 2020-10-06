@@ -1,7 +1,8 @@
 package com.softaai.expandablerecyclerviewdemo.expandablerecyclerview;
 
-import android.support.v7.widget.RecyclerView.ViewHolder;
-import android.support.v7.widget.*;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView.ViewHolder;
+import androidx.appcompat.widget.*;
 import com.softaai.expandablerecyclerviewdemo.expandablerecyclerview.viewholders.*;
 import com.softaai.expandablerecyclerviewdemo.expandablerecyclerview.listeners.*;
 import com.softaai.expandablerecyclerviewdemo.expandablerecyclerview.models.*;

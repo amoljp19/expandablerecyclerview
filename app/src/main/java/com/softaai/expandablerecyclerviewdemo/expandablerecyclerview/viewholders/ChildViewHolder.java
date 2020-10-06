@@ -1,6 +1,8 @@
 package com.softaai.expandablerecyclerviewdemo.expandablerecyclerview.viewholders;
-import android.support.v7.widget.*;
+import androidx.appcompat.widget.*;
 import android.view.*;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 public class ChildViewHolder extends RecyclerView.ViewHolder {
 

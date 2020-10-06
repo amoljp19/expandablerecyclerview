@@ -1,8 +1,10 @@
 package com.softaai.expandablerecyclerviewdemo.expandablerecyclerview.viewholders;
-import android.support.v7.widget.*;
+import androidx.appcompat.widget.*;
 import com.softaai.expandablerecyclerviewdemo.expandablerecyclerview.listeners.*;
 import android.view.*;
 import android.view.View.*;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 public abstract class GroupViewHolder extends RecyclerView.ViewHolder implements OnClickListener {
 

@@ -8,6 +8,16 @@
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
     <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
     <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
     <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
     <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
@@ -18,11 +28,11 @@
     <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
     <string name="app_name">Démonstration RecyclerView extensible</string>
-    <string name="app_playstore_long">Application démo RecyclerView extensible contient deux fragments écran "BASIC" et "EXPANDABLE". Comme son nom l'indique Dans "BASIC", Normal RecyclerView est utilisé pour afficher des éléments de liste simples à défilement vertical, comme indiqué dans les écrans, le minuteur est réduit toutes les secondes (comme le chronomètre). Dans "EXPANDABLE", RecyclerView (ExpandableRecyclerView) personnalisé permet d'agrandir et de réduire les éléments de la liste. Vous pouvez voir le code source aussi</string>
-    <string name="app_playstore_short">Application de démonstration pour RecyclerView et mise à jour de l'interface utilisateur RecyclerView extensible</string>
+    <string name="app_playstore_long">Application démo RecyclerView extensible contient deux fragments écran "BASIC" et "EXPANDABLE". Comme son nom l\'indique Dans "BASIC", Normal RecyclerView est utilisé pour afficher des éléments de liste simples à défilement vertical, comme indiqué dans les écrans, le minuteur est réduit toutes les secondes (comme le chronomètre). Dans "EXPANDABLE", RecyclerView (ExpandableRecyclerView) personnalisé permet d\'agrandir et de réduire les éléments de la liste. Vous pouvez voir le code source aussi</string>
+    <string name="app_playstore_short">Application de démonstration pour RecyclerView et mise à jour de l\'interface utilisateur RecyclerView extensible</string>
     <string name="basic_tab_text">DE BASE</string>
     <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
-    <string name="description_content_text">Lorem Ipsum est simplement un faux texte de l'industrie de l'impression et de la composition. Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500, quand une imprimante inconnue a pris une galère de type et l'a brouillée pour faire un livre spécimen de type. Il a survécu non seulement cinq siècles, mais aussi le saut dans la composition électronique, demeurant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles de Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker, y compris des versions de Lorem Ipsum.</string>
+    <string name="description_content_text">Lorem Ipsum est simplement un faux texte de l\'industrie de l\'impression et de la composition. Lorem Ipsum a été le texte factice standard de l\'industrie depuis les années 1500, quand une imprimante inconnue a pris une galère de type et l\'a brouillée pour faire un livre spécimen de type. Il a survécu non seulement cinq siècles, mais aussi le saut dans la composition électronique, demeurant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles de Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker, y compris des versions de Lorem Ipsum.</string>
     <string name="description_text">imt</string>
     <string name="drawer_header_text">Interactif</string>
     <string name="expandable_tab_text">EXPANDABLE</string>
@@ -37,7 +47,7 @@
     <string msgid="5996672174517137271" name="s6">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
     <string msgid="7163549807207034258" name="s7">"Annonce test"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
-    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sub_title_text">Sous-titre</string>
     <string name="time_text">02: 35: 56</string>
     <string name="title_text">Riddham</string>
