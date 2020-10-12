@@ -27,10 +27,6 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-import com.adcolony.sdk.AdColony;
-import com.applovin.sdk.AppLovinSdk;
-
-
 public class MainActivity extends AppCompatActivity {
 
     private DrawerLayout mDrawerLayout;
@@ -40,10 +36,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        AdColony.configure(this,           // activity context
-                "appdcff5318551c4d299b",
-                "vz900471727cc240169f", "vz4f9ee2f5315048a599");
-        AppLovinSdk.initializeSdk(this);
+//        AdColony.configure(this,           // activity context
+//                "appdcff5318551c4d299b",
+//                "vz900471727cc240169f", "vz4f9ee2f5315048a599");
+//        AppLovinSdk.initializeSdk(this);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

@@ -1,3 +1,0 @@
-# Referenced at C:\Users\Amol\AndroidStudioProjects\expandablerecyclerviewdemocode\app\build\intermediates\manifests\full\release\AndroidManifest.xml:14
--keep class android.support.multidex.MultiDexApplication { <init>(...); }
-

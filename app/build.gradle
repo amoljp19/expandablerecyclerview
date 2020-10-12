@@ -8,8 +8,8 @@ android {
         applicationId "com.softaai.expandablerecyclerviewdemo"
         minSdkVersion 14
         targetSdkVersion 29
-        versionCode 9
-        versionName "1.0.4"
+        versionCode 10
+        versionName "1.0.5"
         multiDexEnabled true
     }
     buildTypes {
@@ -30,27 +30,27 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation 'androidx.appcompat:appcompat:1.0.0'
-    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.cardview:cardview:1.0.0'
-    implementation 'androidx.recyclerview:recyclerview:1.0.0'
-    implementation "com.google.android.gms:play-services-ads:15.0.1"
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+   // implementation "com.google.android.gms:play-services-ads:15.0.1"
 
-    implementation 'androidx.multidex:multidex:2.0.0'
+    implementation 'androidx.multidex:multidex:2.0.1'
 
     //admob monetization sdks
 
-    implementation 'com.adcolony:sdk:3.3.4'
-    implementation 'androidx.annotation:annotation:1.0.0'
-    implementation 'com.google.ads.mediation:adcolony:3.3.4.0'
-
-    implementation 'com.applovin:applovin-sdk:7.8.6'
-    implementation 'com.google.ads.mediation:applovin:7.8.6.0'
-
-    implementation 'com.inmobi.monetization:inmobi-ads:7.0.2'
-    implementation 'com.google.ads.mediation:inmobi:7.0.2.0'
-    implementation 'com.squareup.picasso:picasso:2.5.2'
-
-    implementation 'com.my.target:mytarget-sdk:5.1.0'
-    implementation 'com.google.ads.mediation:mytarget:5.1.0.0'
+    //implementation 'com.adcolony:sdk:3.3.4'
+    implementation 'androidx.annotation:annotation:1.1.0'
+//    implementation 'com.google.ads.mediation:adcolony:3.3.4.0'
+//
+//    implementation 'com.applovin:applovin-sdk:7.8.6'
+//    implementation 'com.google.ads.mediation:applovin:7.8.6.0'
+//
+//    implementation 'com.inmobi.monetization:inmobi-ads:7.0.2'
+//    implementation 'com.google.ads.mediation:inmobi:7.0.2.0'
+//    implementation 'com.squareup.picasso:picasso:2.5.2'
+//
+//    implementation 'com.my.target:mytarget-sdk:5.1.0'
+//    implementation 'com.google.ads.mediation:mytarget:5.1.0.0'
 }
