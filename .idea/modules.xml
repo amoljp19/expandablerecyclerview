@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="expandablerecyclerviewdemocode/app" />
-      <module fileurl="file://$PROJECT_DIR$/expandablerecyclerviewdemocode.iml" filepath="$PROJECT_DIR$/expandablerecyclerviewdemocode.iml" group="expandablerecyclerviewdemocode" />
-    </modules>
-  </component>
-</project>

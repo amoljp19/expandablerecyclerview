@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.softaai.expandablerecyclerviewdemo"
-    android:versionCode="9"
-    android:versionName="1.0.4" >
+    android:versionCode="10"
+    android:versionName="1.0.5" >
 
     <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="29" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="33" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+
+    <permission
+        android:name="com.softaai.expandablerecyclerviewdemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.softaai.expandablerecyclerviewdemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:name="androidx.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
+        android:extractNativeLibs="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:resizeableActivity="true"
+        android:testOnly="true"
         android:theme="@style/asAppTheme" >
         <activity
             android:name="com.softaai.expandablerecyclerviewdemo.MainActivity"
+            android:exported="true"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,57 +38,40 @@
             </intent-filter>
         </activity>
 
-        <!-- AdColony activities integration -->
-
-        <activity
-            android:name="com.adcolony.sdk.AdColonyInterstitialActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:hardwareAccelerated="true" />
-        <activity
-            android:name="com.adcolony.sdk.AdColonyAdViewActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:hardwareAccelerated="true" />
-
-        <!-- End of AdColony activities integration -->
-
-
-        <!-- AppLovin activities integration -->
-
-        <activity
-            android:name="com.applovin.adview.AppLovinInterstitialActivity"
-            android:configChanges="orientation|screenSize" />
-        <activity
-            android:name="com.applovin.adview.AppLovinConfirmationActivity"
-            android:configChanges="orientation|screenSize" />
-
-        <!-- End of AppLovin activities integration -->
-
-
-        <!-- Inmobi activities integration -->
-
-        <activity
-            android:name="com.inmobi.rendering.InMobiAdActivity"
-            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize|screenLayout"
-            android:hardwareAccelerated="true"
-            android:resizeableActivity="false"
-            android:theme="@android:style/Theme.NoTitleBar" />
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.softaai.expandablerecyclerviewdemo.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
 
         <receiver
-            android:name="com.inmobi.commons.core.utilities.uid.ImIdShareBroadCastReceiver"
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
             android:enabled="true"
-            android:exported="true" >
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
             <intent-filter>
-                <action android:name="com.inmobi.share.id" />
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
             </intent-filter>
         </receiver>
-
-        <!-- Inmobi activities integration -->
-
-
-        <!-- AppLovin registration purpose, after that remove next release -->
-        <meta-data
-            android:name="applovin.sdk.key"
-            android:value="P10Kw4_0FPK6GxHMS8UQ-xaEOSUPBN_aP0vJ4vKJIeQZZix0rPRqL12kUX8fv8FI89cC2xWLZyw8er9UFbJacL" />
     </application>
 
 </manifest>
